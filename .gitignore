@@ -1,1 +1,10 @@
-.gitsecret/keys/random_seed
+banned-ips.json
+banned-players.json
+eula.txt
+cache/
+logs/
+whitelist.json
+world/
+world_nether/
+world_the_end/
+
