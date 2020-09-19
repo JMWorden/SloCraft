@@ -1,0 +1,40 @@
+lastAccountName: Epic_Kellbo
+timestamps:
+  login: 1597726240310
+  lastteleport: 1597526404787
+  kits:
+    farmer: 1596242092335
+    hoplite: 1596430677589
+  logout: 1597726497697
+ipAddress: 47.144.23.136
+lastlocation:
+  world: world
+  x: 3449.300000011921
+  y: 13.0
+  z: 475.7161423876112
+  yaw: -119.82281
+  pitch: 35.09999
+afk: false
+money: '90533.94800000000006035'
+homes:
+  home:
+    world: world
+    x: 3454.812205485757
+    y: 68.0
+    z: -63.10885251703079
+    yaw: 259.55737
+    pitch: 29.249767
+  spawner:
+    world: world
+    x: 514.6056731740675
+    y: 39.0
+    z: -31.49377795104104
+    yaw: 303.55493
+    pitch: 15.150577
+logoutlocation:
+  world: world
+  x: 3451.876307912283
+  y: 68.0
+  z: -64.84811761915746
+  yaw: -230.94397
+  pitch: 11.850176

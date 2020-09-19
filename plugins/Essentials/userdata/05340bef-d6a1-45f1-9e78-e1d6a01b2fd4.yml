@@ -1,0 +1,29 @@
+lastAccountName: pizooks
+timestamps:
+  login: 1596349116972
+  lastteleport: 1596358744068
+  logout: 1596358783781
+ipAddress: 68.111.95.96
+lastlocation:
+  world: world_nether
+  x: 117.86601416323744
+  y: 59.0
+  z: -476.01931943786514
+  yaw: 210.29968
+  pitch: -25.147526
+money: '0.0'
+homes:
+  home:
+    world: world
+    x: -194.3613394005808
+    y: 67.0
+    z: -1850.8162391047229
+    yaw: 31.56836
+    pitch: 12.036524
+logoutlocation:
+  world: world
+  x: -200.29588652643716
+  y: 49.0
+  z: -1850.7016744762286
+  yaw: -110.413376
+  pitch: 22.112047

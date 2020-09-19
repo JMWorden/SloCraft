@@ -1,0 +1,21 @@
+lastAccountName: aloha_gaming
+timestamps:
+  login: 1599548666768
+  lastteleport: 1599351807208
+  logout: 1599550218225
+ipAddress: 73.41.18.249
+lastlocation:
+  world: world
+  x: -1474.954666883446
+  y: 78.0
+  z: 481.3628943911128
+  yaw: -327.30048
+  pitch: 14.8499365
+money: '2900.3136000000001265'
+logoutlocation:
+  world: world
+  x: 2179.5351048571642
+  y: 73.5625
+  z: -373.2270506305284
+  yaw: 10.499603
+  pitch: 56.699997

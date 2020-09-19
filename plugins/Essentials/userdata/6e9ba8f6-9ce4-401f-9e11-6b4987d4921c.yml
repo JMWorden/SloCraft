@@ -1,0 +1,30 @@
+lastAccountName: ShadeGames
+timestamps:
+  login: 1599365982358
+  lastteleport: 1599368848857
+  logout: 1599368878126
+ipAddress: 66.220.122.62
+lastlocation:
+  world: world_nether
+  x: 486.0523947934035
+  y: 77.0
+  z: -315.3415691298993
+  yaw: 151.73314
+  pitch: 19.949738
+money: '100.0'
+homes:
+  home:
+    world: world
+    x: 2963.0506937441974
+    y: 75.0
+    z: -2103.0017278938385
+    yaw: 4.4368305
+    pitch: 19.7996
+logoutlocation:
+  world: world
+  x: 2962.8689100760803
+  y: 84.0
+  z: -2103.2306652414263
+  yaw: 332.93665
+  pitch: 26.249601
+afk: false

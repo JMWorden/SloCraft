@@ -1,0 +1,50 @@
+lastAccountName: Unstable_Sarcasm
+timestamps:
+  login: 1599854016705
+  logout: 1599854875027
+  lastteleport: 1599854766355
+  kits:
+    philosopher: 1597707683242
+    farmer: 1596260665982
+    hoplite: 1596413553758
+  mute: 0
+ipAddress: 24.12.149.190
+lastlocation:
+  world: world
+  x: 3118.5
+  y: 70.0
+  z: 240.5
+  yaw: 85.69948
+  pitch: 29.999817
+logoutlocation:
+  world: world
+  x: 1645.6881003600506
+  y: 73.0
+  z: -247.699999988079
+  yaw: 256.29614
+  pitch: 17.399876
+money: '1538540.87449999997429277'
+homes:
+  home:
+    world: world
+    x: 1651.6165720832612
+    y: 73.0
+    z: -246.58795413853244
+    yaw: 317.7995
+    pitch: -7.800077
+  mine:
+    world: world_the_end
+    x: 247.3028938404832
+    y: 1.375
+    z: -0.48424945939297215
+    yaw: -96.5708
+    pitch: 26.101484
+  temp:
+    world: world
+    x: 3118.5
+    y: 70.0
+    z: 240.5
+    yaw: -82.150375
+    pitch: 67.80007
+afk: false
+muted: false

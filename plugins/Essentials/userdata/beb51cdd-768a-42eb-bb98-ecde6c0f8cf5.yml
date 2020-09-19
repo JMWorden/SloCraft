@@ -1,0 +1,21 @@
+lastAccountName: TimmyTimTim123
+timestamps:
+  login: 1596251433299
+  logout: 1596253167778
+  lastteleport: 1596252118499
+ipAddress: 24.5.70.73
+lastlocation:
+  world: world
+  x: 1756.5346478301663
+  y: 61.0
+  z: -652.3906675298973
+  yaw: -65.49921
+  pitch: 17.89985
+logoutlocation:
+  world: world
+  x: 1641.2825784162326
+  y: 70.0
+  z: -519.2408293006326
+  yaw: 27.993896
+  pitch: 62.675545
+money: '419.1404999999999995'

@@ -1,0 +1,40 @@
+lastAccountName: JPebv_
+timestamps:
+  login: 1600381391281
+  logout: 1600389531792
+  lastteleport: 1600389530031
+  kits:
+    farmer: 1599848896806
+    hoplite: 1599872987139
+ipAddress: 172.248.137.203
+lastlocation:
+  world: world
+  x: 3729.9553844202583
+  y: 80.0
+  z: -3572.6885438867826
+  yaw: 98.55268
+  pitch: 2.6999035
+logoutlocation:
+  world: world
+  x: 2224.5
+  y: 61.0
+  z: -465.5
+  yaw: 184.55057
+  pitch: 10.799337
+money: '3061.06780000000045507'
+homes:
+  cpe:
+    world: world
+    x: 2376.136422689591
+    y: 74.0
+    z: -699.4435750188153
+    yaw: -90.56436
+    pitch: 15.150467
+  me:
+    world: world
+    x: 2226.643802790264
+    y: 61.0
+    z: -466.42031056079327
+    yaw: 47.900726
+    pitch: 8.249353
+afk: false

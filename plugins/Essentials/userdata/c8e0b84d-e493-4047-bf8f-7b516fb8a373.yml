@@ -1,0 +1,41 @@
+lastAccountName: Bobabobo
+timestamps:
+  login: 1597735360271
+  lastteleport: 1597737963762
+  logout: 1597738143836
+  kits:
+    farmer: 1596523037690
+  jail: 0
+ipAddress: 47.41.203.27
+lastlocation:
+  world: world
+  x: 2776.97823236149
+  y: 91.0
+  z: 207.98324594899395
+  yaw: 99.57654
+  pitch: 46.050026
+money: '38875.6475000000002688'
+homes:
+  home:
+    world: world
+    x: 2830.865502187761
+    y: 73.0
+    z: -238.30000001192093
+    yaw: 31.546204
+    pitch: 30.149979
+  mountain:
+    world: world
+    x: 3690.5374762444935
+    y: 103.0
+    z: -265.466956593284
+    yaw: 249.2143
+    pitch: 30.921652
+afk: false
+logoutlocation:
+  world: world
+  x: 1924.487500011921
+  y: 74.0
+  z: -4311.591169626282
+  yaw: -273.74298
+  pitch: 18.499851
+jailed: false

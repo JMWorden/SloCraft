@@ -1,0 +1,27 @@
+lastAccountName: DaedalusZero
+timestamps:
+  login: 1596222574921
+  logout: 1596224227086
+ipAddress: 172.118.179.93
+lastlocation:
+  world: world
+  x: 1826.5
+  y: 79.0
+  z: -610.5
+  yaw: 1.4187177
+  pitch: 0.0
+homes:
+  home:
+    world: world
+    x: 2173.215824454528
+    y: 65.0
+    z: 1775.6879276880939
+    yaw: -326.20175
+    pitch: 18.124414
+logoutlocation:
+  world: world
+  x: 2171.5
+  y: 69.0000002
+  z: 1723.5
+  yaw: 56.841793
+  pitch: 0.0

@@ -1,0 +1,32 @@
+lastAccountName: Firetalon348
+timestamps:
+  login: 1599767677154
+  logout: 1599768171262
+  lastteleport: 1599764922855
+  kits:
+    farmer: 1599342750627
+ipAddress: 23.241.97.116
+lastlocation:
+  world: world
+  x: 3113.955216912533
+  y: 55.0
+  z: 5545.393286412405
+  yaw: 91.86664
+  pitch: 55.334133
+logoutlocation:
+  world: world
+  x: 5057.425579985045
+  y: 22.0
+  z: -6007.240845033875
+  yaw: -174.0853
+  pitch: -23.769503
+money: '24554.30730000000000664'
+afk: false
+homes:
+  home:
+    world: world
+    x: 3098.313781047153
+    y: 53.0
+    z: 5545.2515932032575
+    yaw: 267.40152
+    pitch: -6.600648

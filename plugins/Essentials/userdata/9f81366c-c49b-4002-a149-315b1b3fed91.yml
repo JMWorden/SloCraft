@@ -1,0 +1,33 @@
+lastAccountName: xxAshi
+timestamps:
+  login: 1599343550369
+  lastteleport: 1599138056145
+  logout: 1599343556077
+  kits:
+    farmer: 1598205368127
+    hoplite: 1598279674969
+ipAddress: 90.198.142.208
+lastlocation:
+  world: world
+  x: 1810.0215065029793
+  y: 64.0
+  z: -699.9857161183497
+  yaw: 134.94952
+  pitch: 20.730728
+money: '2128.5729999999999434'
+homes:
+  home:
+    world: world
+    x: 1089.3958068200066
+    y: 71.0
+    z: -1201.933681735673
+    yaw: 65.3233
+    pitch: 16.2006
+logoutlocation:
+  world: world
+  x: -487.4481693844824
+  y: 16.0
+  z: 657.4504818972385
+  yaw: -278.62146
+  pitch: 18.899761
+afk: false

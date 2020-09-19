@@ -1,0 +1,21 @@
+lastAccountName: TapTackle51
+timestamps:
+  login: 1597635523593
+  lastteleport: 1597637300613
+  logout: 1597638118953
+ipAddress: 73.189.149.132
+lastlocation:
+  world: world
+  x: -1175.3818410092274
+  y: 63.0
+  z: 701.2911384991235
+  yaw: 192.88281
+  pitch: 7.4998927
+logoutlocation:
+  world: world
+  x: -1565.2468097062576
+  y: 74.0
+  z: 469.8156941956892
+  yaw: -301.95312
+  pitch: 3.6002839
+afk: false

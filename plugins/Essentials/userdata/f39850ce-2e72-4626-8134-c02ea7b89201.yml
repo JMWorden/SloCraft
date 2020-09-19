@@ -1,0 +1,21 @@
+lastAccountName: ScrappyCoco2016
+timestamps:
+  login: 1599940878974
+  logout: 1599941072887
+ipAddress: 73.220.199.119
+lastlocation:
+  world: world
+  x: 1841.5
+  y: 83.0
+  z: -619.5
+  yaw: 24.24259
+  pitch: 11.55001
+money: '1500'
+logoutlocation:
+  world: world
+  x: -1521.8572142809562
+  y: 76.5
+  z: 491.7379248840356
+  yaw: -101.83749
+  pitch: 5.99998
+afk: false

@@ -1,0 +1,21 @@
+lastAccountName: Voskrod
+timestamps:
+  login: 1597894397495
+  lastteleport: 1597894582107
+  logout: 1597894924422
+ipAddress: 72.197.125.200
+lastlocation:
+  world: world
+  x: 1796.9264082054099
+  y: 79.0
+  z: -620.1045525136127
+  yaw: -72.46973
+  pitch: 4.3826203
+money: '400.0'
+logoutlocation:
+  world: world
+  x: 1782.5555800368832
+  y: 77.0
+  z: -664.5652380680569
+  yaw: -139.95529
+  pitch: 5.597681

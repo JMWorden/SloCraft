@@ -1,0 +1,29 @@
+lastAccountName: minimufffin
+timestamps:
+  login: 1598500672018
+  logout: 1598500785091
+  lastteleport: 1598422101215
+ipAddress: 64.113.118.32
+lastlocation:
+  world: world
+  x: 4358.197734663307
+  y: 68.0
+  z: 893.9441439100857
+  yaw: 297.18085
+  pitch: 18.039818
+money: '1000.0'
+logoutlocation:
+  world: world
+  x: 2260.300000011921
+  y: 79.0
+  z: 2171.7496048668563
+  yaw: 116.79196
+  pitch: 17.99722
+homes:
+  home:
+    world: world
+    x: 1990.63870980682
+    y: 87.0
+    z: -258.5919622142799
+    yaw: -85.405975
+    pitch: 67.229454

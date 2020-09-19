@@ -1,0 +1,21 @@
+lastAccountName: Huixch
+timestamps:
+  login: 1596831512429
+  lastteleport: 1596831574913
+  logout: 1596831616132
+ipAddress: 24.192.52.4
+lastlocation:
+  world: world
+  x: 1823.2347787503986
+  y: 72.0
+  z: -647.3308182871511
+  yaw: 244.59317
+  pitch: 13.68065
+money: '300.0'
+logoutlocation:
+  world: world
+  x: 797.5
+  y: 70.0
+  z: -2566.5
+  yaw: -52.222244
+  pitch: 0.0

@@ -1,0 +1,20 @@
+lastAccountName: da_con
+timestamps:
+  login: 1596222630782
+  lastteleport: 1596222821797
+  logout: 1596223391274
+ipAddress: 50.35.95.205
+lastlocation:
+  world: world
+  x: 1844.5130156993343
+  y: 72.0
+  z: -647.6055392549544
+  yaw: 60.845886
+  pitch: 12.780344
+logoutlocation:
+  world: world
+  x: 1850.3845628590484
+  y: 77.0
+  z: -426.32085364729153
+  yaw: -201.94574
+  pitch: 17.999302

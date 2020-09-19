@@ -1,0 +1,30 @@
+lastAccountName: Akihiko_
+timestamps:
+  login: 1599793243504
+  lastteleport: 1599632091468
+  logout: 1599793270662
+ipAddress: 66.215.51.29
+lastlocation:
+  world: world
+  x: -2864.0064999618357
+  y: 94.0
+  z: -1407.3527136708112
+  yaw: -210.31494
+  pitch: 30.27843
+logoutlocation:
+  world: world
+  x: 5059.144433489486
+  y: 21.5
+  z: -6006.34538583051
+  yaw: 151.78905
+  pitch: 15.936966
+afk: false
+homes:
+  home:
+    world: world
+    x: -2846.9408812589554
+    y: 94.0
+    z: -1314.9551573050683
+    yaw: 1.0176086
+    pitch: 34.520943
+money: '304.0'

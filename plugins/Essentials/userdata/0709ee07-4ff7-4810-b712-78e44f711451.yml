@@ -1,0 +1,35 @@
+lastAccountName: Neue_
+timestamps:
+  login: 1598501481718
+  lastteleport: 1598507085575
+  logout: 1598507648956
+  mute: 0
+  lastheal: 1598301606153
+  kits:
+    farmer: 1598286136934
+ipAddress: 107.199.62.37
+lastlocation:
+  world: world
+  x: 1432.9321834145042
+  y: 64.0
+  z: -1215.2890030229169
+  yaw: -129.43867
+  pitch: 20.55008
+money: '53302.60300000000031865'
+logoutlocation:
+  world: world
+  x: -3940.840839801082
+  y: 60.0
+  z: -2764.4966332838067
+  yaw: 273.83752
+  pitch: 10.349922
+homes:
+  home:
+    world: world
+    x: -3945.668573132442
+    y: 64.0
+    z: -2764.2552614668443
+    yaw: 171.84048
+    pitch: 35.021526
+muted: false
+afk: false

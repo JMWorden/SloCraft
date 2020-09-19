@@ -1,0 +1,30 @@
+lastAccountName: Meg_NMA_
+timestamps:
+  login: 1599217330280
+  lastteleport: 1597981053708
+  logout: 1599217381834
+ipAddress: 73.59.108.237
+lastlocation:
+  world: world
+  x: 1311.0396533450726
+  y: 71.0
+  z: -660.3000000119209
+  yaw: 22.556627
+  pitch: 2.8806322
+money: '276.6975000000000065'
+logoutlocation:
+  world: world
+  x: 2719.0209272294774
+  y: 67.0
+  z: 31.476815456125472
+  yaw: 288.4512
+  pitch: 2.7000713
+homes:
+  home:
+    world: world
+    x: 38.93290512491964
+    y: 68.0
+    z: 106.46508560224896
+    yaw: -164.33258
+    pitch: 20.40003
+afk: false

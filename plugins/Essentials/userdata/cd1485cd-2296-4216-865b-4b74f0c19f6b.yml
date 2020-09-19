@@ -1,0 +1,98 @@
+lastAccountName: SeanyBoy12
+timestamps:
+  login: 1599366120156
+  logout: 1599368978772
+  lastteleport: 1599368501183
+  lastheal: 1599368303353
+  kits:
+    philosopher: 1597692002685
+    hoplite: 1597691922991
+    farmer: 1597691951245
+ipAddress: 174.62.126.249
+lastlocation:
+  world: world
+  x: -3636.8099852076593
+  y: 99.17333273737268
+  z: -3434.7918150076976
+  yaw: 103.703735
+  pitch: 26.730728
+logoutlocation:
+  world: world
+  x: 2928.7048673397007
+  y: 105.65760164174267
+  z: -2057.657016495411
+  yaw: -353.319
+  pitch: 69.29978
+homes:
+  home:
+    world: world
+    x: 2963.50373244472
+    y: 75.0
+    z: -2106.6509088035555
+    yaw: -171.8159
+    pitch: 30.749563
+  farm:
+    world: world
+    x: 5057.454193925376
+    y: 21.0
+    z: -6006.389408121651
+    yaw: -164.92717
+    pitch: -26.403156
+  end:
+    world: world_the_end
+    x: -71.55966253985171
+    y: 1.0
+    z: 284.8610028248836
+    yaw: -4.3020396
+    pitch: 35.999905
+  house:
+    world: world
+    x: 2440.5952257497383
+    y: 59.5
+    z: 371.66524724681784
+    yaw: 73.10585
+    pitch: 17.399542
+  mine:
+    world: world
+    x: 2549.0634548867374
+    y: 18.0
+    z: -2338.1443204653674
+    yaw: 0.43245474
+    pitch: 65.249504
+  fortress:
+    world: world_nether
+    x: 338.7206924225288
+    y: 73.0
+    z: -110.97630179948983
+    yaw: 179.28334
+    pitch: 11.700562
+  jungle:
+    world: world
+    x: 3438.238555948744
+    y: 103.0
+    z: -2312.6612944920134
+    yaw: -46.98364
+    pitch: 31.799685
+  cave:
+    world: world
+    x: -413.503677415064
+    y: 64.0
+    z: 523.9780333812786
+    yaw: 199.88428
+    pitch: 19.349028
+  villedge:
+    world: world
+    x: 2312.5108778521767
+    y: 73.0
+    z: -1387.5648618181692
+    yaw: 31.379578
+    pitch: 42.150887
+  pig:
+    world: world_nether
+    x: 431.7662309567589
+    y: 50.0
+    z: -465.4490039316887
+    yaw: -272.901
+    pitch: 23.849813
+afk: false
+money: '216498.15329999999980310'

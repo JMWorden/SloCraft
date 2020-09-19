@@ -1,0 +1,24 @@
+lastAccountName: kmarinsh
+timestamps:
+  login: 1598244847278
+  logout: 1598247457094
+  mute: 0
+  lastteleport: 1598246375001
+ipAddress: 107.199.60.161
+lastlocation:
+  world: world
+  x: 1816.4545279581976
+  y: 81.0
+  z: -619.6274454704037
+  yaw: 118.159706
+  pitch: 4.0005164
+muted: false
+godmode: false
+logoutlocation:
+  world: world
+  x: -3493.137499988079
+  y: 63.0
+  z: -3385.0008062884303
+  yaw: -90.967804
+  pitch: -27.365112
+money: '100.0'

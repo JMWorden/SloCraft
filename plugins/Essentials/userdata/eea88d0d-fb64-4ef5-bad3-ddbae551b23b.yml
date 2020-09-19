@@ -1,0 +1,29 @@
+lastAccountName: Ficus_
+timestamps:
+  login: 1599701337754
+  logout: 1599701416972
+ipAddress: 98.35.108.160
+lastlocation:
+  world: world
+  x: 1825.5
+  y: 74.0
+  z: -609.5
+  yaw: 5.807662
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: 5365.864317994844
+  y: 84.0
+  z: -3769.057975227886
+  yaw: -223.20398
+  pitch: 3.9841833
+money: '504.3489999999999995'
+afk: false
+homes:
+  home:
+    world: world
+    x: 5409.816877575418
+    y: 76.0
+    z: -3837.9066681744175
+    yaw: -42.934
+    pitch: 11.081204

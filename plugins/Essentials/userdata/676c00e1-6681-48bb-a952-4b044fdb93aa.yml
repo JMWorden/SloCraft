@@ -1,0 +1,40 @@
+lastAccountName: daughter_of_chum
+timestamps:
+  login: 1597807989811
+  logout: 1597810679487
+  lastteleport: 1597389161738
+  kits:
+    farmer: 1596701986074
+    hoplite: 1596955274191
+ipAddress: 71.237.235.192
+lastlocation:
+  world: world
+  x: 2300.8942349800236
+  y: 91.0
+  z: -1246.1785974707927
+  yaw: -71.60525
+  pitch: 22.098577
+money: '92893.69700000000027116'
+homes:
+  one:
+    world: world
+    x: 2300.3243878726767
+    y: 91.0
+    z: -1242.237500011921
+    yaw: 162.6336
+    pitch: 20.235308
+  two:
+    world: world
+    x: -2694.4258227730234
+    y: 84.0
+    z: -931.9291587450045
+    yaw: -81.381454
+    pitch: 18.18891
+logoutlocation:
+  world: world
+  x: -2691.9781920992764
+  y: 82.0
+  z: -941.0930025776664
+  yaw: 37.19458
+  pitch: 15.9131155
+afk: false

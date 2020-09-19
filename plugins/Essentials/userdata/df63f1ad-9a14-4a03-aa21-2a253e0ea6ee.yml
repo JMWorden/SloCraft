@@ -1,0 +1,41 @@
+lastAccountName: ana_tole
+timestamps:
+  login: 1598917937491
+  logout: 1598921412058
+  lastteleport: 1598920617542
+  mute: 0
+  jail: 0
+ipAddress: 24.6.161.177
+lastlocation:
+  world: world
+  x: 5251.699999988079
+  y: 61.0
+  z: 4398.699999988079
+  yaw: -236.99219
+  pitch: 47.10114
+homes:
+  home:
+    world: world
+    x: 2661.5157846684997
+    y: 87.0
+    z: -338.87628473680513
+    yaw: 139.22607
+    pitch: 12.899899
+  ice:
+    world: world
+    x: 4586.3431963657595
+    y: 96.0
+    z: 4104.475808582219
+    yaw: 117.50229
+    pitch: 20.100044
+logoutlocation:
+  world: world
+  x: 2661.1373802843123
+  y: 92.0
+  z: -344.18390509691903
+  yaw: 113.56055
+  pitch: 7.1988974
+money: '43968.21880000000042240'
+afk: false
+muted: false
+jailed: false

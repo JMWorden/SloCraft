@@ -1,0 +1,29 @@
+lastAccountName: SPD_ProBono
+timestamps:
+  login: 1597415096637
+  lastteleport: 1597415204087
+  logout: 1597415228242
+ipAddress: 12.184.218.44
+lastlocation:
+  world: world
+  x: 232.08301853503895
+  y: 63.0
+  z: -1895.407998073455
+  yaw: 313.07446
+  pitch: 10.499052
+money: '8723.44279999999993356'
+homes:
+  home:
+    world: world
+    x: 3815.1652753569338
+    y: 64.0
+    z: -2335.511051364821
+    yaw: -313.23047
+    pitch: 30.148935
+logoutlocation:
+  world: world
+  x: 3815.1914618505807
+  y: 64.0
+  z: -2331.544019964725
+  yaw: -338.13104
+  pitch: 25.798946

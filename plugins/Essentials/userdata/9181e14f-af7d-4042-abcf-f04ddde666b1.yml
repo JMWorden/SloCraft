@@ -1,0 +1,38 @@
+lastAccountName: maodiver
+timestamps:
+  login: 1597630939917
+  lastteleport: 1596275694548
+  kits:
+    farmer: 1596248186868
+  logout: 1597630943940
+ipAddress: 104.220.207.43
+lastlocation:
+  world: world
+  x: 3562.2040762804922
+  y: 64.0
+  z: -2489.686917032018
+  yaw: -51.98401
+  pitch: 10.655853
+money: '15035.31390000000013685'
+homes:
+  home:
+    world: world
+    x: 3328.2302533600873
+    y: 66.0
+    z: -2120.8648984674933
+    yaw: -304.96082
+    pitch: 20.30085
+  desert:
+    world: world
+    x: 4425.54164161523
+    y: 72.0
+    z: -4267.069762147552
+    yaw: 193.47748
+    pitch: 14.947063
+logoutlocation:
+  world: world
+  x: 3302.699999988079
+  y: 46.0
+  z: -2135.4395623739583
+  yaw: -90.48451
+  pitch: -7.525666

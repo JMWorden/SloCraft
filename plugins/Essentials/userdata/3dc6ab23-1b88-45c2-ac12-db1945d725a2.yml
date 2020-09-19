@@ -1,0 +1,99 @@
+lastAccountName: SamHasToast
+timestamps:
+  login: 1599264776130
+  lastteleport: 1599194615871
+  logout: 1599265235441
+  kits:
+    philosopher: 1598849743112
+    farmer: 1598072665964
+    hoplite: 1598849723008
+  lastheal: 1599022967528
+ipAddress: 172.250.13.84
+lastlocation:
+  world: world
+  x: 3534.1225853423366
+  y: 67.0
+  z: -1436.47857046937
+  yaw: 187.76697
+  pitch: -6.549905
+money: '183144.77970000000189361'
+homes:
+  house:
+    world: world
+    x: 3591.456656810983
+    y: 71.0
+    z: -1817.1738434474
+    yaw: 6.262651
+    pitch: 9.751841
+  blaze:
+    world: world_nether
+    x: -200.16528483111028
+    y: 55.0
+    z: 48.369238083296935
+    yaw: 267.3767
+    pitch: 13.511734
+  newhouse:
+    world: world
+    x: 3542.3730268595987
+    y: 63.0
+    z: -1436.0330448550342
+    yaw: 261.70752
+    pitch: 12.483891
+  village:
+    world: world
+    x: -704.2349510055099
+    y: 63.0
+    z: -2463.9898596529283
+    yaw: 358.01578
+    pitch: 46.345108
+  nether:
+    world: world_nether
+    x: 137.61175419085225
+    y: 81.0
+    z: 416.19795093124895
+    yaw: -20.788021
+    pitch: 21.048223
+  end:
+    world: world_the_end
+    x: 7195.930719992871
+    y: 57.0
+    z: -630.3697922139039
+    yaw: -82.7338
+    pitch: 27.454218
+  nethermine:
+    world: world_nether
+    x: -648.3000000119209
+    y: 11.0
+    z: -450.94816098866124
+    yaw: -3.3196106
+    pitch: 15.875319
+  nether2:
+    world: world_nether
+    x: 608.6085423147681
+    y: 91.0
+    z: -596.4104018766245
+    yaw: 82.2525
+    pitch: 40.178978
+  creeperfarm:
+    world: world
+    x: 3466.587120457294
+    y: 64.0
+    z: -1752.0725703093426
+    yaw: -79.57723
+    pitch: 16.672453
+  nightclub:
+    world: world
+    x: 1866.925000011921
+    y: 69.0
+    z: -553.5008005223574
+    yaw: 271.40808
+    pitch: 14.925915
+logoutlocation:
+  world: world
+  x: 1874.2257219484593
+  y: 70.0
+  z: -553.3299390911895
+  yaw: 52.24191
+  pitch: 26.88965
+afk: false
+nickname: SamHasToast

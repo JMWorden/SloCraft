@@ -1,0 +1,28 @@
+lastAccountName: Heatwave18
+timestamps:
+  login: 1599857260426
+  logout: 1599859383664
+ipAddress: 71.93.52.202
+lastlocation:
+  world: world
+  x: 1839.0865634429824
+  y: 82.5
+  z: -619.4826180972007
+  yaw: 89.9428
+  pitch: 34.830574
+homes:
+  home:
+    world: world
+    x: 2377.3500368601076
+    y: 74.0
+    z: -701.1006005738823
+    yaw: -349.93042
+    pitch: 25.800217
+money: '909.72'
+logoutlocation:
+  world: world
+  x: 2378.5080459652913
+  y: 74.0
+  z: -698.769490314568
+  yaw: -303.8456
+  pitch: 40.650047

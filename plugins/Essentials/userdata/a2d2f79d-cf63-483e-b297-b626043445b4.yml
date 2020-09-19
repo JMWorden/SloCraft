@@ -1,0 +1,47 @@
+lastAccountName: QuetzalKay
+timestamps:
+  login: 1600237297757
+  logout: 1600237671513
+  lastteleport: 1598681968522
+  kits:
+    philosopher: 1598066995646
+    farmer: 1596400581871
+ipAddress: 207.62.170.210
+lastlocation:
+  world: world
+  x: 1360.20126297534
+  y: 64.0
+  z: -457.95645418002175
+  yaw: 145.75806
+  pitch: 51.299995
+money: '8060.65819999999973264'
+homes:
+  a:
+    world: world
+    x: 1337.5
+    y: 94.0
+    z: -612.5
+    yaw: 4.5691833
+    pitch: 10.361132
+  end:
+    world: world_the_end
+    x: -848.4259208536943
+    y: 57.0
+    z: -2143.0775798825875
+    yaw: -230.72948
+    pitch: 15.449976
+  mine:
+    world: world
+    x: 1156.9035088498451
+    y: 13.0
+    z: 248.25924585019743
+    yaw: -16.315918
+    pitch: 24.449427
+logoutlocation:
+  world: world
+  x: 1321.3732184314101
+  y: 69.0625
+  z: -520.9047918336553
+  yaw: 92.328964
+  pitch: 4.506629
+afk: false

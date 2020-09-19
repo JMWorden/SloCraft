@@ -1,0 +1,31 @@
+lastAccountName: vasquez1999
+timestamps:
+  login: 1598505813169
+  lastteleport: 1598504239069
+  logout: 1598505983397
+  mute: 0
+ipAddress: 108.160.69.152
+lastlocation:
+  world: world
+  x: 1271.7688018087422
+  y: 68.0
+  z: -542.2640297612435
+  yaw: 239.15857
+  pitch: 17.14503
+money: '49.0'
+homes:
+  home:
+    world: world
+    x: 1264.9746415927261
+    y: 68.0
+    z: -537.4949751996276
+    yaw: 224.50928
+    pitch: 6.5562353
+logoutlocation:
+  world: world
+  x: 1780.8040857827832
+  y: 65.0
+  z: -749.728793208544
+  yaw: 342.01245
+  pitch: -3.4489076
+muted: false

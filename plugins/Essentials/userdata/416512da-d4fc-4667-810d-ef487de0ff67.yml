@@ -1,0 +1,60 @@
+lastAccountName: deadlydude100
+timestamps:
+  login: 1598917321791
+  lastteleport: 1598920638869
+  kits:
+    philosopher: 1596408694654
+    farmer: 1596243956436
+    hoplite: 1596267052524
+    deity: 1597533259068
+    archon: 1596516417151
+  logout: 1598920964061
+  jail: 0
+ipAddress: 73.71.114.180
+lastlocation:
+  world: world
+  x: 5252.2836233465905
+  y: 64.0
+  z: 4400.449008056041
+  yaw: -40.934998
+  pitch: 23.845577
+homes:
+  base:
+    world: world
+    x: 2774.857765553154
+    y: 11.0
+    z: 38.98750001192093
+    yaw: 99.657
+    pitch: 13.939192
+  adventure:
+    world: world
+    x: 11500.068008423126
+    y: 63.0
+    z: -1794.0668570732232
+    yaw: -358.19656
+    pitch: 20.305653
+  xp:
+    world: world_the_end
+    x: -71.43736885034949
+    y: 1.0
+    z: 288.30000001192093
+    yaw: -4.36682
+    pitch: 9.03181
+  fall:
+    world: world
+    x: -3384.315166714566
+    y: 64.0
+    z: -3337.505197470997
+    yaw: -76.40757
+    pitch: 15.352451
+money: '24946.98080000004866826'
+logoutlocation:
+  world: world
+  x: 2774.5
+  y: 11.0
+  z: 38.5
+  yaw: 99.80527
+  pitch: 12.041448
+jailed: false
+afk: false
+nickname: §cdeadlydude101

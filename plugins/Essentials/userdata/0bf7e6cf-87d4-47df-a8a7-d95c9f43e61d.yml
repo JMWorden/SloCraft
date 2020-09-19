@@ -1,0 +1,39 @@
+lastAccountName: _Kevin_23
+timestamps:
+  login: 1600381437083
+  lastteleport: 1600390023682
+  logout: 1600390038739
+  kits:
+    farmer: 1599849659464
+ipAddress: 166.170.41.134
+lastlocation:
+  world: world
+  x: 2140.300000011921
+  y: 67.0
+  z: -3154.6689689429
+  yaw: -150.406
+  pitch: 12.899952
+money: '8392.35129999999992819'
+logoutlocation:
+  world: world
+  x: 3776.5
+  y: 72.0
+  z: -3560.5
+  yaw: 98.10002
+  pitch: 3.1500003
+homes:
+  home:
+    world: world
+    x: 2374.931016005553
+    y: 74.0
+    z: -702.7323949789743
+    yaw: -26.548561
+    pitch: 12.450213
+  village:
+    world: world
+    x: 3808.118591692622
+    y: 64.0
+    z: -3552.05827020991
+    yaw: 177.75537
+    pitch: 17.99986
+afk: false

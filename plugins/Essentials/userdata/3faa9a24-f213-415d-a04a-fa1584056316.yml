@@ -1,0 +1,21 @@
+lastAccountName: fcriot
+timestamps:
+  login: 1599342315613
+  lastteleport: 1599342876807
+  logout: 1599347492628
+ipAddress: 71.95.137.36
+lastlocation:
+  world: world
+  x: 1610.01084111561
+  y: 2.0
+  z: -438.9134699167985
+  yaw: -141.22455
+  pitch: 21.701054
+logoutlocation:
+  world: world
+  x: -221.0204594750137
+  y: 62.0
+  z: -3518.8913732406904
+  yaw: -200.68085
+  pitch: -19.95046
+money: '300.0'

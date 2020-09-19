@@ -1,0 +1,207 @@
+lastAccountName: Giflor
+timestamps:
+  login: 1600417686270
+  logout: 1600425186227
+  lastteleport: 1600411816981
+  kits:
+    philosopher: 1597614796923
+    farmer: 1596787283373
+    hoplite: 1597123545260
+    deity: 1598768030553
+    archon: 1597818943179
+  lastheal: 1600401462161
+  mute: 0
+ipAddress: 198.72.137.142
+lastlocation:
+  world: world
+  x: 2928.725530035675
+  y: 78.0
+  z: -2614.824422574504
+  yaw: -5.7301307
+  pitch: 38.249836
+afk: false
+logoutlocation:
+  world: world
+  x: 3802.5976858432687
+  y: 58.0
+  z: -2333.07067424019
+  yaw: -7.7038574
+  pitch: 69.60017
+homes:
+  home:
+    world: world
+    x: 3716.436244195707
+    y: 62.0
+    z: -1985.421041372097
+    yaw: -67.44644
+    pitch: -3.2996333
+  nether:
+    world: world_nether
+    x: 1773.3471426534743
+    y: 66.0
+    z: 155.61013022619358
+    yaw: -89.44653
+    pitch: 8.100328
+  fish:
+    world: world
+    x: 3810.508259409396
+    y: 45.5
+    z: -2334.5167371367884
+    yaw: -85.09781
+    pitch: -79.64973
+  bastion:
+    world: world_nether
+    x: 7211.8809197745
+    y: 34.0
+    z: 1063.413188266575
+    yaw: -340.72665
+    pitch: 3.8996086
+  grinder:
+    world: world
+    x: 5057.5
+    y: 21.0
+    z: -6006.5
+    yaw: -179.58336
+    pitch: -24.448895
+  village:
+    world: world
+    x: 11052.188995376317
+    y: 71.0
+    z: 3265.3040266425014
+    yaw: -257.97827
+    pitch: 18.150057
+  villagers:
+    world: world
+    x: 2282.699999988079
+    y: 64.0
+    z: -1955.3383036297987
+    yaw: 62.04136
+    pitch: 15.149587
+  blaze:
+    world: world_nether
+    x: -199.42756496773734
+    y: 60.0
+    z: 191.95381500530576
+    yaw: 355.8472
+    pitch: 12.450078
+  librarians:
+    world: world
+    x: 2759.0532319507315
+    y: 63.0
+    z: 542.4165716565035
+    yaw: 237.80826
+    pitch: 18.299545
+  emine:
+    world: world
+    x: 11490.300000011921
+    y: 12.0
+    z: 3610.300000011921
+    yaw: 291.13483
+    pitch: 14.699877
+  sheep:
+    world: world
+    x: 4336.041204577237
+    y: 15.0
+    z: -2332.316982708394
+    yaw: -244.27591
+    pitch: 27.74978
+  steak:
+    world: world
+    x: 2876.2464551213784
+    y: 34.0
+    z: -2348.5008925727557
+    yaw: 90.52606
+    pitch: 11.249793
+  sand:
+    world: world
+    x: 574.8334356425244
+    y: 70.0
+    z: -2190.5163394434094
+    yaw: 66.48968
+    pitch: 13.649975
+  kpswither:
+    world: world_nether
+    x: 3500.65092631624
+    y: 38.0
+    z: 3521.7402855656555
+    yaw: 1.3979334
+    pitch: 47.850338
+  wither:
+    world: world_nether
+    x: 4641.5
+    y: 75.0
+    z: 3563.5
+    yaw: -220.14893
+    pitch: 13.499813
+  desert:
+    world: world
+    x: 239.5
+    y: 69.0
+    z: -1754.5
+    yaw: 62.5737
+    pitch: 0.0
+  kpsweird:
+    world: world_nether
+    x: 3442.9146004450163
+    y: 34.0
+    z: 3859.9844462827946
+    yaw: 0.3469452
+    pitch: 51.14969
+  420yeet:
+    world: world
+    x: -152.99495483348758
+    y: 66.0
+    z: -1839.4403534008336
+    yaw: -344.06293
+    pitch: 4.5393963
+  basement:
+    world: world
+    x: 3809.6512866921357
+    y: 45.5
+    z: -2333.6696061982907
+    yaw: -196.3995
+    pitch: 26.400452
+  xp:
+    world: world_the_end
+    x: -71.28526229504585
+    y: 1.5
+    z: 289.63860201118973
+    yaw: 0.6459398
+    pitch: 21.59998
+  nmine:
+    world: world_nether
+    x: 1841.6441106011787
+    y: 14.0
+    z: 215.71759377468655
+    yaw: -30.372559
+    pitch: 11.099277
+  end:
+    world: world_the_end
+    x: -588.6755217642545
+    y: 64.0
+    z: 1094.9682594678507
+    yaw: -194.5065
+    pitch: 11.850122
+  coral:
+    world: world
+    x: -3199.478125321451
+    y: 61.53523363472681
+    z: -2469.4579830559405
+    yaw: -254.4314
+    pitch: 23.849564
+  guardian:
+    world: world
+    x: -5499.585853715164
+    y: 22.0
+    z: 1759.8171493864966
+    yaw: 91.11783
+    pitch: 19.6717
+  archon:
+    world: world
+    x: -684.3000000119209
+    y: 63.0
+    z: -669.6999999880791
+    yaw: -269.00574
+    pitch: 10.230553
+money: '183839.47830000002163609'
+muted: false

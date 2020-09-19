@@ -1,0 +1,29 @@
+lastAccountName: ChrisRxf
+timestamps:
+  login: 1596322168838
+  lastteleport: 1596327415599
+  logout: 1596328986022
+ipAddress: 75.74.88.243
+lastlocation:
+  world: world
+  x: 3298.5647291830855
+  y: 63.0
+  z: -1597.5305501169676
+  yaw: -286.265
+  pitch: 38.549526
+money: '100.0'
+homes:
+  home:
+    world: world
+    x: 3250.222766048277
+    y: 63.0
+    z: -1809.4141261551304
+    yaw: -125.18335
+    pitch: 34.79997
+logoutlocation:
+  world: world
+  x: 3249.361267727114
+  y: 63.0
+  z: -1810.658474616436
+  yaw: -31.29953
+  pitch: 27.751059

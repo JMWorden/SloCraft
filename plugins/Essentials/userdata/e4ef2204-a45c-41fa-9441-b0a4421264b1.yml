@@ -1,0 +1,27 @@
+lastAccountName: honorasparkle
+timestamps:
+  login: 1597080151160
+  logout: 1597081804242
+ipAddress: 107.185.144.109
+lastlocation:
+  world: world
+  x: 1821.5
+  y: 79.0
+  z: -628.5
+  yaw: 4.140943
+  pitch: 0.0
+homes:
+  home:
+    world: world
+    x: 616.0964457842643
+    y: 64.0
+    z: 56.5683470858302
+    yaw: 108.20239
+    pitch: 20.550173
+logoutlocation:
+  world: world
+  x: 613.5
+  y: 64.0000002
+  z: 57.5
+  yaw: 139.95096
+  pitch: 7.500001

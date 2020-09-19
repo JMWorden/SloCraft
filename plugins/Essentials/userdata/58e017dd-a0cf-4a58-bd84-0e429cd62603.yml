@@ -1,0 +1,29 @@
+lastAccountName: Llamaka
+timestamps:
+  login: 1600210667321
+  lastteleport: 1600215180871
+  logout: 1600215230225
+ipAddress: 216.57.64.170
+lastlocation:
+  world: world
+  x: 2224.349266977794
+  y: 11.0
+  z: -173.69999998807907
+  yaw: 77.00244
+  pitch: 0.7516495
+homes:
+  home:
+    world: world
+    x: 2223.3153812090054
+    y: 61.0
+    z: -464.15336387243724
+    yaw: 280.18042
+    pitch: 21.749846
+money: '2201.5600000000000300'
+logoutlocation:
+  world: world
+  x: 2223.48789267658
+  y: 61.0
+  z: -465.4634830690825
+  yaw: 348.13043
+  pitch: 16.349855

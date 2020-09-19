@@ -1,0 +1,22 @@
+lastAccountName: ChadTheWarrior
+timestamps:
+  login: 1599516248267
+  logout: 1599516777973
+  lastteleport: 1599516677368
+ipAddress: 207.62.170.213
+lastlocation:
+  world: world
+  x: 1610.699999988079
+  y: 2.0
+  z: -447.55406498977015
+  yaw: -135.05688
+  pitch: 0.8999993
+logoutlocation:
+  world: world
+  x: 757.7624999880791
+  y: 98.0
+  z: -2205.0121633246968
+  yaw: 206.40411
+  pitch: 5.8501086
+afk: false
+money: '400.0'

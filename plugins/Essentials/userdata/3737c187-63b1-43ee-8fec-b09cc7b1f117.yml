@@ -1,0 +1,40 @@
+lastAccountName: spellskunk
+timestamps:
+  login: 1598069139060
+  logout: 1598069402127
+  lastteleport: 1597390594687
+  kits:
+    farmer: 1596701962301
+    hoplite: 1596955235051
+ipAddress: 98.246.48.29
+lastlocation:
+  world: world
+  x: -5113.325187791228
+  y: 63.0
+  z: 1558.0053146366574
+  yaw: 86.36636
+  pitch: 13.382035
+logoutlocation:
+  world: world
+  x: -2694.874224548452
+  y: 82.0
+  z: -940.1343323190656
+  yaw: 183.65332
+  pitch: 20.849863
+money: '14234.36319999999984974'
+homes:
+  home:
+    world: world
+    x: 2670.9104781721817
+    y: 76.0
+    z: -1128.271135856945
+    yaw: 301.61948
+    pitch: 26.250261
+  mesa:
+    world: world
+    x: -2695.612057408846
+    y: 85.0
+    z: -930.7148383271798
+    yaw: -23.212692
+    pitch: 20.849964
+afk: false

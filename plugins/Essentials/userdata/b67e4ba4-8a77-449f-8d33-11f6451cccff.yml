@@ -1,0 +1,28 @@
+lastAccountName: YipYorp
+timestamps:
+  login: 1596222950372
+  lastteleport: 1596227143450
+  logout: 1596227732271
+ipAddress: 108.255.194.188
+lastlocation:
+  world: world
+  x: 2883.516109375686
+  y: 49.0
+  z: -185.64477794258158
+  yaw: -75.15042
+  pitch: 22.95001
+homes:
+  home:
+    world: world
+    x: 2819.702983058184
+    y: 73.0
+    z: -234.51249998807907
+    yaw: -189.24323
+    pitch: 55.650124
+logoutlocation:
+  world: world
+  x: 2819.110434236933
+  y: 73.0
+  z: -234.33011467043553
+  yaw: -40.595776
+  pitch: 54.300243

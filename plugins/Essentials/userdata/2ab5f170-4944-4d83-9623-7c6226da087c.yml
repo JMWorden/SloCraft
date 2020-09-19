@@ -1,0 +1,29 @@
+lastAccountName: RyomaNagare
+timestamps:
+  login: 1599427653756
+  logout: 1599430428565
+  lastteleport: 1599430416458
+ipAddress: 66.214.72.173
+lastlocation:
+  world: world
+  x: 1611.907623910965
+  y: 3.0
+  z: -448.4476613269199
+  yaw: 46.442196
+  pitch: 17.849838
+logoutlocation:
+  world: world
+  x: -530.9764844373423
+  y: 99.0
+  z: 408.3935289084988
+  yaw: 10.349775
+  pitch: 8.099672
+money: '300.0'
+homes:
+  home:
+    world: world
+    x: -530.8416654058456
+    y: 99.0
+    z: 407.08415185474416
+    yaw: 103.04982
+    pitch: 40.949688

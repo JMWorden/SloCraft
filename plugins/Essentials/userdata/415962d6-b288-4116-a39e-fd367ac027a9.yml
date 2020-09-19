@@ -1,0 +1,56 @@
+lastAccountName: c1jb
+timestamps:
+  login: 1597683463713
+  logout: 1597689835915
+  kits:
+    philosopher: 1596437918707
+    farmer: 1596232483495
+    hoplite: 1596350635696
+    archon: 1596771057153
+  lastteleport: 1597688933040
+ipAddress: 70.185.159.233
+lastlocation:
+  world: world
+  x: 11491.699532753808
+  y: 134.0
+  z: -1613.637491373059
+  yaw: 161.95898
+  pitch: 18.146467
+logoutlocation:
+  world: world
+  x: 4648.5
+  y: 82.0
+  z: -3066.5
+  yaw: 202.29666
+  pitch: 18.146164
+money: '25242.70690000000161872'
+homes:
+  lvls:
+    world: world
+    x: 5057.395743661258
+    y: 21.0
+    z: -6006.455228255062
+    yaw: -175.72113
+    pitch: -11.853898
+  b:
+    world: world
+    x: 2371.971140536137
+    y: 68.0
+    z: -567.4200078106998
+    yaw: 224.71039
+    pitch: 23.621328
+  castle:
+    world: world
+    x: 4648.722100065373
+    y: 82.0
+    z: -3066.342518389349
+    yaw: 244.95508
+    pitch: 21.171589
+  edge:
+    world: world
+    x: 11500.5
+    y: 63.0
+    z: -1794.5
+    yaw: -358.19656
+    pitch: 20.305653
+afk: false

@@ -1,0 +1,36 @@
+lastAccountName: deking1234
+timestamps:
+  login: 1599188624978
+  lastteleport: 1599194996103
+  logout: 1599195113102
+  kits:
+    philosopher: 1596231132129
+    farmer: 1596225622869
+    hoplite: 1596231121326
+    archon: 1597118228351
+ipAddress: 76.88.93.20
+lastlocation:
+  world: world
+  x: 1727.5
+  y: 66.5
+  z: -648.5
+  yaw: 1.8246005
+  pitch: -0.40546677
+logoutlocation:
+  world: world
+  x: 1871.0475937569213
+  y: 69.0
+  z: -551.2485041695631
+  yaw: 146.10123
+  pitch: 12.430564
+money: '410.8484000000000841'
+socialspy: true
+afk: false
+homes:
+  home:
+    world: world
+    x: 11502.082205522367
+    y: 134.0
+    z: -1601.656255126466
+    yaw: 167.92072
+    pitch: 26.435005

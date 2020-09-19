@@ -1,0 +1,34 @@
+lastAccountName: m0m0ney
+timestamps:
+  login: 1599925342622
+  lastteleport: 1599841653955
+  logout: 1599925546930
+  kits:
+    philosopher: 1598920930133
+    farmer: 1598291985420
+    hoplite: 1598472256190
+ipAddress: 207.62.170.209
+lastlocation:
+  world: world_nether
+  x: 532.314369277639
+  y: 75.0
+  z: -354.5789769653775
+  yaw: -237.08618
+  pitch: 39.64397
+money: '8782.81840000000040743'
+logoutlocation:
+  world: world_nether
+  x: 550.3000000119209
+  y: 75.0
+  z: -522.6999999880791
+  yaw: -335.10864
+  pitch: 40.777958
+homes:
+  home:
+    world: world
+    x: 4356.828330493815
+    y: 64.0
+    z: -2480.2747524673637
+    yaw: -258.54028
+    pitch: 14.62962
+afk: false

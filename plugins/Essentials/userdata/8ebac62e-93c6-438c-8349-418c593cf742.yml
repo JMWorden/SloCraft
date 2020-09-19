@@ -1,0 +1,44 @@
+lastAccountName: AwesomePB
+timestamps:
+  login: 1598425103615
+  lastteleport: 1598425604315
+  kits:
+    farmer: 1596313516162
+    hoplite: 1597135580177
+  logout: 1598427306726
+  jail: 0
+  mute: 0
+ipAddress: 66.215.51.152
+lastlocation:
+  world: world
+  x: 514.9070569548933
+  y: 11.0
+  z: -27.69999998807907
+  yaw: 21.996277
+  pitch: 35.25014
+money: '1587.50669999999998450'
+homes:
+  home:
+    world: world
+    x: 517.7739545449134
+    y: 52.0
+    z: -17.19323146902324
+    yaw: -242.59866
+    pitch: 13.2001915
+  endies:
+    world: world_the_end
+    x: 246.6938373161465
+    y: 1.0
+    z: 3.9983951981572723
+    yaw: -119.79336
+    pitch: 21.17323
+logoutlocation:
+  world: world
+  x: 513.5220128977005
+  y: 64.0
+  z: -21.930833314211213
+  yaw: -3.8813477
+  pitch: 2.5078945
+jailed: false
+afk: false
+muted: false

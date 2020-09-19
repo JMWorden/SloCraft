@@ -1,0 +1,29 @@
+lastAccountName: buderchampion
+timestamps:
+  login: 1599100658280
+  lastteleport: 1599105761844
+  logout: 1599106172057
+ipAddress: 76.86.124.162
+lastlocation:
+  world: world
+  x: 3011.562662721246
+  y: 83.0
+  z: -2467.699999988079
+  yaw: 225.80933
+  pitch: 90.0
+money: '200.0'
+homes:
+  home:
+    world: world
+    x: 3017.61770877345
+    y: 81.0
+    z: -2429.2446403747017
+    yaw: 209.91602
+    pitch: 10.500085
+logoutlocation:
+  world: world
+  x: 2412.566016769725
+  y: 72.0
+  z: -3144.700904464647
+  yaw: -6.5069876
+  pitch: 43.200405

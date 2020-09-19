@@ -1,0 +1,42 @@
+lastAccountName: ZachSquared
+timestamps:
+  login: 1599889069972
+  lastteleport: 1599892726472
+  logout: 1599892866882
+  kits:
+    philosopher: 1598592500468
+    hoplite: 1597262890370
+    farmer: 1597262903328
+ipAddress: 71.94.48.129
+lastlocation:
+  world: world
+  x: 2875.5
+  y: 33.0
+  z: -2350.5
+  yaw: -355.7051
+  pitch: 8.005114
+money: '8347.18810000000018708'
+homes:
+  home:
+    world: world
+    x: 72.5
+    y: 68.0000002
+    z: 1080.5
+    yaw: 302.68692
+    pitch: 27.508951
+  edge:
+    world: world_nether
+    x: -37.11728589629619
+    y: 12.0
+    z: -295.6695184275259
+    yaw: 93.93251
+    pitch: 47.84894
+logoutlocation:
+  world: world
+  x: 39.88933692062833
+  y: 53.875
+  z: 1062.2074519659566
+  yaw: -272.2648
+  pitch: 10.106837
+afk: false
+godmode: false

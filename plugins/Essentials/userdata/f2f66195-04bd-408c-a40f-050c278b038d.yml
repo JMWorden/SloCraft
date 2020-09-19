@@ -1,0 +1,30 @@
+lastAccountName: Ocean_Sheep
+timestamps:
+  login: 1598412617807
+  lastteleport: 1598412654806
+  logout: 1598424310219
+ipAddress: 71.94.48.129
+lastlocation:
+  world: world
+  x: 1804.0697810126167
+  y: 64.0
+  z: -752.3391078066087
+  yaw: 82.82325
+  pitch: 18.746737
+money: '7316.6000000000001020'
+homes:
+  home:
+    world: world
+    x: 72.41396101997256
+    y: 66.0
+    z: 1087.8922472988704
+    yaw: -237.61432
+    pitch: 41.21244
+logoutlocation:
+  world: world
+  x: 1877.199999988079
+  y: 64.0
+  z: -547.6999999880791
+  yaw: -7.216797
+  pitch: 6.3697762
+afk: false

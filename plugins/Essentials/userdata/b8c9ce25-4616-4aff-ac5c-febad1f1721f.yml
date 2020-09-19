@@ -1,0 +1,24 @@
+lastAccountName: jenna_skye
+timestamps:
+  login: 1599187656828
+  jail: 0
+  lastteleport: 1599188738461
+  logout: 1599195089008
+ipAddress: 69.62.200.229
+lastlocation:
+  world: world
+  x: 1803.5
+  y: 64.0
+  z: -738.5
+  yaw: 223.69165
+  pitch: -1.8759332
+jailed: false
+afk: false
+logoutlocation:
+  world: world
+  x: 1884.4576141696193
+  y: 69.0
+  z: -571.216772767469
+  yaw: -4.7508545
+  pitch: 35.100056
+money: '300.0'

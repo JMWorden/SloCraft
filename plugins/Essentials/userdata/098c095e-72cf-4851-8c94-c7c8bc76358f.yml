@@ -1,0 +1,40 @@
+lastAccountName: chris1234w
+timestamps:
+  login: 1597508854338
+  lastteleport: 1597509008737
+  logout: 1597523521539
+  kits:
+    farmer: 1596224750389
+    hoplite: 1596352997146
+ipAddress: 64.201.120.107
+lastlocation:
+  world: world
+  x: 1852.3834462428947
+  y: 64.0
+  z: -1056.7608536167422
+  yaw: 218.49031
+  pitch: 13.262507
+homes:
+  home:
+    world: world
+    x: 1854.792845256599
+    y: 64.0
+    z: -1057.0336762544205
+    yaw: -275.98236
+    pitch: 17.97138
+  exp:
+    world: world
+    x: 316.84521439198454
+    y: 191.0
+    z: -3569.643896157271
+    yaw: 37.10662
+    pitch: -61.572136
+logoutlocation:
+  world: world
+  x: 310.22729242566584
+  y: 191.0
+  z: -3565.6885095745065
+  yaw: 313.81396
+  pitch: -2.6615021
+afk: false
+money: '44408.6220000000004821'

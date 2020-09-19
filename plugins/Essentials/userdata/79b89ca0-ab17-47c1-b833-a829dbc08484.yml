@@ -1,0 +1,30 @@
+lastAccountName: prettyboycoop
+timestamps:
+  login: 1600362743780
+  lastteleport: 1600363098031
+  logout: 1600363181636
+ipAddress: 69.62.200.229
+lastlocation:
+  world: world
+  x: 3893.497753239115
+  y: 67.0
+  z: 279.4021107938716
+  yaw: -291.06354
+  pitch: 10.919534
+money: '0.0'
+homes:
+  home:
+    world: world
+    x: 3851.601933848228
+    y: 32.0
+    z: 246.63748277174176
+    yaw: -95.86475
+    pitch: 35.363297
+afk: false
+logoutlocation:
+  world: world
+  x: 3852.5
+  y: 33.0
+  z: 240.5
+  yaw: 45.000004
+  pitch: 0.0

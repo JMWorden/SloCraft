@@ -1,0 +1,29 @@
+lastAccountName: FlamingPrincess1
+timestamps:
+  login: 1599215420778
+  lastteleport: 1597827449312
+  logout: 1599215443485
+ipAddress: 124.176.215.50
+lastlocation:
+  world: world
+  x: 1805.1368107468322
+  y: 64.0
+  z: -701.7553996919701
+  yaw: 96.04166
+  pitch: 12.074105
+logoutlocation:
+  world: world
+  x: 2069.8524552129916
+  y: 78.0
+  z: -2193.4065302618783
+  yaw: 136.66646
+  pitch: 21.899988
+money: '7056.5470000000000636'
+homes:
+  home:
+    world: world
+    x: 2069.012499988079
+    y: 79.0
+    z: -2195.951682604155
+    yaw: 14.86499
+    pitch: 51.749718

@@ -1,0 +1,31 @@
+lastAccountName: Lightedd
+timestamps:
+  login: 1599851174155
+  lastteleport: 1599862974505
+  logout: 1599863129517
+  kits:
+    farmer: 1599859254265
+ipAddress: 141.126.99.49
+lastlocation:
+  world: world
+  x: 2377.9238210017606
+  y: 26.0
+  z: -701.5452059515219
+  yaw: -187.03105
+  pitch: 22.650629
+money: '4103.9838000000000121'
+logoutlocation:
+  world: world
+  x: 2373.667930823229
+  y: 74.0
+  z: -699.4581278405593
+  yaw: -133.66205
+  pitch: 13.80151
+homes:
+  home:
+    world: world
+    x: 2376.9255380284185
+    y: 74.0
+    z: -700.1676497861179
+    yaw: -60.294098
+    pitch: 19.350225

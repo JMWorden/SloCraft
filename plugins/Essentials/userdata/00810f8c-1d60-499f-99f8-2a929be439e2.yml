@@ -1,0 +1,49 @@
+lastAccountName: Holliflower
+timestamps:
+  login: 1599356497709
+  logout: 1599357383725
+  lastteleport: 1599188916123
+  jail: 0
+ipAddress: 73.162.72.209
+lastlocation:
+  world: world
+  x: 224.3995685157969
+  y: 59.0
+  z: 870.3507934361121
+  yaw: -14.736175
+  pitch: 9.972966
+jailed: false
+logoutlocation:
+  world: world
+  x: 1876.971710957831
+  y: 70.0625
+  z: -567.8896864869378
+  yaw: 190.51062
+  pitch: 18.096516
+nickname: Holliflower
+money: '16416.56640000000014061'
+homes:
+  home:
+    world: world
+    x: 228.16516983128938
+    y: 77.0
+    z: 871.3711942537133
+    yaw: -33.689632
+    pitch: 42.36747
+  village:
+    world: world
+    x: 313.33090596185025
+    y: 64.0
+    z: -476.9056982304876
+    yaw: 186.83241
+    pitch: 33.585583
+  h:
+    world: world
+    x: 227.80901758742073
+    y: 65.0
+    z: 866.820181499937
+    yaw: -207.54689
+    pitch: 17.062935
+socialspy: false
+godmode: false
+afk: false

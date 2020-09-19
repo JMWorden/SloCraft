@@ -1,0 +1,39 @@
+lastAccountName: COOLBEANS404
+timestamps:
+  login: 1598741922396
+  lastteleport: 1598662715473
+  logout: 1598741936457
+  kits:
+    philosopher: 1598661785787
+ipAddress: 68.96.95.207
+money: '7973.82728999999795378'
+lastlocation:
+  world: world
+  x: 307.5562632419499
+  y: 191.0
+  z: -3571.5439281615086
+  yaw: 89.850174
+  pitch: 17.099987
+logoutlocation:
+  world: world
+  x: 3787.137499988079
+  y: 75.125
+  z: -2498.528558684801
+  yaw: -162.74951
+  pitch: 20.249916
+homes:
+  second:
+    world: world
+    x: 306.89983185908807
+    y: 190.5
+    z: -3550.8207299598453
+    yaw: 184.09091
+    pitch: 21.931885
+  home:
+    world: world
+    x: 3784.9568683716802
+    y: 75.0
+    z: -2498.184076875206
+    yaw: -263.70016
+    pitch: 7.950002
+afk: false

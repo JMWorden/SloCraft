@@ -1,0 +1,37 @@
+lastAccountName: The_Limester
+timestamps:
+  login: 1599758309704
+  lastteleport: 1599427329207
+  logout: 1599758337465
+ipAddress: 24.12.149.190
+money: '1493943.0708000000079120'
+lastlocation:
+  world: world
+  x: 1652.241355142188
+  y: 74.0
+  z: -246.4722280009034
+  yaw: 91.797104
+  pitch: 7.2003555
+logoutlocation:
+  world: world
+  x: 3661.871341189997
+  y: 12.0
+  z: -2297.8387992524968
+  yaw: -69.72246
+  pitch: 20.198013
+homes:
+  home:
+    world: world
+    x: 3652.134871043605
+    y: 12.0
+    z: -2295.455764362391
+    yaw: 295.38254
+    pitch: 8.497902
+  etan:
+    world: world
+    x: 1647.800172405605
+    y: 73.0
+    z: -251.2520741647572
+    yaw: 179.69258
+    pitch: 26.447386
+afk: false

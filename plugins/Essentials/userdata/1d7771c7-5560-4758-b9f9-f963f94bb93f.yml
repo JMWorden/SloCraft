@@ -1,0 +1,84 @@
+lastAccountName: JammedGolf486
+timestamps:
+  login: 1599342244757
+  lastteleport: 1599334644816
+  logout: 1599342623379
+  kits:
+    farmer: 1597021843947
+    hoplite: 1597339268277
+  lastheal: 1599342611299
+ipAddress: 73.223.62.71
+lastlocation:
+  world: world_nether
+  x: 381.80116585133345
+  y: 58.494332120569275
+  z: -657.6677261161294
+  yaw: -107.3606
+  pitch: 20.700459
+homes:
+  home:
+    world: world
+    x: 2960.685655129779
+    y: 75.0
+    z: -2097.8106776166924
+    yaw: -120.97646
+    pitch: 32.5197
+  'yes':
+    world: world
+    x: 2433.2928187031052
+    y: 71.0
+    z: 375.30000001192093
+    yaw: -109.35217
+    pitch: 19.950441
+  nether:
+    world: world_nether
+    x: 277.2876782086025
+    y: 78.0
+    z: -462.53254694981007
+    yaw: -106.46173
+    pitch: -1.3495094
+  mines:
+    world: world_nether
+    x: 57.14358066712194
+    y: 13.0
+    z: 205.30000001192093
+    yaw: 86.57675
+    pitch: 8.250789
+  fortress:
+    world: world_nether
+    x: 338.4462191933549
+    y: 73.0
+    z: -115.28602280708867
+    yaw: 6.630555
+    pitch: 23.100662
+  netherite:
+    world: world_nether
+    x: 401.97421566878035
+    y: 13.0
+    z: 132.3042950202132
+    yaw: -37.018127
+    pitch: 63.149326
+  philo:
+    world: world
+    x: -415.03169806871927
+    y: 67.11898914800732
+    z: 523.526487014451
+    yaw: 141.96356
+    pitch: 32.701927
+  coral:
+    world: world
+    x: 913.4425821882946
+    y: 65.3948278974431
+    z: -2807.088650607432
+    yaw: -7.460846
+    pitch: 34.199497
+logoutlocation:
+  world: world
+  x: 2295.60243271319
+  y: 44.368135578350866
+  z: -2081.6825995524746
+  yaw: -166.97319
+  pitch: -7.3503866
+money: '15884.86950000000045359'
+afk: false
+nickname: MeepTheGod

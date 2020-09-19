@@ -1,0 +1,49 @@
+lastAccountName: Nicholas026
+timestamps:
+  login: 1598508098839
+  lastteleport: 1598508193747
+  logout: 1598508323845
+  kits:
+    philosopher: 1598139812749
+    farmer: 1597625479858
+    hoplite: 1597716772575
+    archon: 1598494070634
+ipAddress: 199.103.55.111
+lastlocation:
+  world: world
+  x: 1912.656718786604
+  y: 57.875
+  z: -4364.699999988079
+  yaw: -92.83519
+  pitch: 53.67785
+money: '904.34050000000091754'
+logoutlocation:
+  world: world
+  x: 1907.2896472275095
+  y: 65.0
+  z: -4343.014424207864
+  yaw: 115.68939
+  pitch: -9.575757
+homes:
+  home:
+    world: world
+    x: 1909.5798175536531
+    y: 65.0
+    z: -4342.526141732863
+    yaw: 160.75998
+    pitch: 18.161213
+  ov:
+    world: world
+    x: 5061.038558415605
+    y: 21.5
+    z: -6006.119560362749
+    yaw: 106.42468
+    pitch: 19.997063
+  rank:
+    world: world
+    x: 11499.845428903787
+    y: 63.0
+    z: -1794.0458063716846
+    yaw: -4.2198954
+    pitch: 23.629162
+afk: false

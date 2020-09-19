@@ -1,0 +1,21 @@
+lastAccountName: romancemancer
+timestamps:
+  login: 1599713523104
+  logout: 1599714194811
+  lastteleport: 1599713802455
+ipAddress: 207.62.170.210
+lastlocation:
+  world: world
+  x: 1610.2402428926348
+  y: 2.0
+  z: -440.9800366153435
+  yaw: 20.585236
+  pitch: 15.564326
+logoutlocation:
+  world: world
+  x: -1.2922719593823264
+  y: 91.0
+  z: -1080.136391346503
+  yaw: -4.9426575
+  pitch: 19.16985
+money: '400.0'

@@ -1,0 +1,30 @@
+lastAccountName: CODBoyAdvance
+timestamps:
+  login: 1598655090023
+  logout: 1598655116437
+  lastteleport: 1598567595618
+ipAddress: 73.231.42.8
+lastlocation:
+  world: world
+  x: -2588.296106622061
+  y: 52.0
+  z: -1931.699999988079
+  yaw: 232.83585
+  pitch: 5.1535397
+homes:
+  home:
+    world: world
+    x: 1436.300000011921
+    y: 57.0
+    z: -95.97605253192097
+    yaw: -84.08301
+    pitch: -18.231827
+logoutlocation:
+  world: world
+  x: 1438.7107993505824
+  y: 57.0
+  z: -95.99200338779491
+  yaw: -187.69421
+  pitch: 10.129566
+afk: false
+money: '400.0'

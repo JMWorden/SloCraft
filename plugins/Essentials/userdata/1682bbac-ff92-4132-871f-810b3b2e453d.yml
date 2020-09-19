@@ -1,0 +1,30 @@
+lastAccountName: Tyberious55
+timestamps:
+  login: 1599103985946
+  logout: 1599108049055
+  lastteleport: 1599106745744
+ipAddress: 71.196.142.155
+lastlocation:
+  world: world
+  x: -4482.532220101574
+  y: 69.0
+  z: -255.69999998807907
+  yaw: -115.891426
+  pitch: -70.89146
+money: '11598.0852000000001683'
+afk: false
+logoutlocation:
+  world: world
+  x: -4483.755615425408
+  y: 69.0
+  z: -254.762499988079
+  yaw: 237.98059
+  pitch: 20.398342
+homes:
+  home:
+    world: world
+    x: -3342.825566415231
+    y: 70.0
+    z: -269.5125245287538
+    yaw: 153.05626
+    pitch: 10.079911

@@ -1,0 +1,23 @@
+lastAccountName: Dolantherhino
+timestamps:
+  login: 1599024271979
+  logout: 1599026549994
+  lastteleport: 1599026493620
+  jail: 0
+ipAddress: 69.127.103.209
+lastlocation:
+  world: world
+  x: 1870.8317097567158
+  y: 69.0
+  z: -554.5224593976924
+  yaw: 87.864746
+  pitch: 21.18777
+logoutlocation:
+  world: world
+  x: 1863.5663940381362
+  y: 69.0
+  z: -553.5250473169427
+  yaw: 277.67767
+  pitch: 11.293573
+jailed: false
+money: '300.0'

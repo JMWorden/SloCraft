@@ -1,0 +1,29 @@
+lastAccountName: Tambysaur
+timestamps:
+  login: 1599868386354
+  lastteleport: 1599451311207
+  logout: 1599868645070
+ipAddress: 147.148.166.156
+lastlocation:
+  world: world
+  x: -1291.1298238580334
+  y: 76.0
+  z: 1168.985740431425
+  yaw: 89.47168
+  pitch: 8.400197
+money: '719.1875999999999912'
+logoutlocation:
+  world: world
+  x: -1385.2038633244135
+  y: 64.0
+  z: 1110.3791631267502
+  yaw: 17.101501
+  pitch: 5.999831
+homes:
+  home:
+    world: world
+    x: -1326.1471090428836
+    y: 83.5
+    z: 1029.2409008759457
+    yaw: 4.560328
+    pitch: 10.650014

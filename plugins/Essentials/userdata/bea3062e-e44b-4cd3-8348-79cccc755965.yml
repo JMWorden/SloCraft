@@ -1,0 +1,29 @@
+lastAccountName: SalvitoreSinbad
+timestamps:
+  login: 1596484422599
+  lastteleport: 1596310950199
+  logout: 1596484570606
+ipAddress: 107.199.201.92
+lastlocation:
+  world: world
+  x: 5141.2534151742875
+  y: 74.0
+  z: 729.6239499076145
+  yaw: -44.38105
+  pitch: 6.449941
+money: '0.0'
+logoutlocation:
+  world: world
+  x: 5158.528479422272
+  y: 90.0
+  z: 716.4472609090176
+  yaw: -15.075319
+  pitch: 50.400646
+homes:
+  home:
+    world: world
+    x: 4007.5990820929587
+    y: 63.0
+    z: 154.6883908587455
+    yaw: -110.146545
+    pitch: 15.2997055

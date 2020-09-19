@@ -1,0 +1,99 @@
+lastAccountName: McAfee2020
+timestamps:
+  login: 1600309581307
+  logout: 1600310157916
+  lastteleport: 1600310155054
+  kits:
+    farmer: 1599023381802
+    hoplite: 1599109834208
+  lastheal: 1600022291606
+  mute: 0
+ipAddress: 76.94.44.16
+lastlocation:
+  world: world
+  x: -1487.7669038458741
+  y: 114.6124684737227
+  z: 460.4065336755384
+  yaw: -312.76523
+  pitch: 44.249996
+logoutlocation:
+  world: world
+  x: -237.5
+  y: 68.0
+  z: 1086.5
+  yaw: 18.899998
+  pitch: 16.79999
+money: '58209.39220000000012891'
+homes:
+  home:
+    world: world
+    x: -237.31356000973528
+    y: 68.0
+    z: 1086.1246631225724
+    yaw: 18.899998
+    pitch: 16.79999
+  skele:
+    world: world
+    x: 3004.2907510691084
+    y: 42.0
+    z: -1768.1687773888461
+    yaw: 188.64746
+    pitch: 9.599903
+  end:
+    world: world_the_end
+    x: 17.238543714893336
+    y: 63.0
+    z: -14.519541399780552
+    yaw: 85.88062
+    pitch: 39.115234
+  matt:
+    world: world
+    x: -530.2042941126152
+    y: 99.0
+    z: 407.91145017980176
+    yaw: 353.84918
+    pitch: 57.5999
+  enderman:
+    world: world_the_end
+    x: 247.3790891058894
+    y: 1.375
+    z: -0.7913746955272036
+    yaw: -92.76945
+    pitch: 40.465317
+  village:
+    world: world
+    x: 3954.232652056978
+    y: 64.0
+    z: -4859.283104278838
+    yaw: -179.77148
+    pitch: 13.499808
+  shop:
+    world: world
+    x: 1734.9628393638432
+    y: 64.0
+    z: -732.0454080332828
+    yaw: 335.8916
+    pitch: 33.224056
+  city:
+    world: world_the_end
+    x: 11305.71038411555
+    y: 126.0
+    z: -7353.578633603946
+    yaw: -263.76154
+    pitch: 49.499943
+  enchant:
+    world: world
+    x: -1341.6590759063713
+    y: 65.0
+    z: 436.56252827914534
+    yaw: 330.2854
+    pitch: 2.289013
+  mine:
+    world: world
+    x: 3176.699999988079
+    y: 11.0
+    z: -2100.6625904048774
+    yaw: 3.8337402
+    pitch: 5.0999084
+afk: false
+muted: false

@@ -1,0 +1,43 @@
+lastAccountName: SanePlantPerson
+timestamps:
+  login: 1599614705618
+  lastteleport: 1599635642119
+  logout: 1599636176880
+  kits:
+    farmer: 1598240180253
+    hoplite: 1598240233743
+ipAddress: 71.84.28.181
+lastlocation:
+  world: world
+  x: 1980.1072647435685
+  y: 72.0
+  z: -257.30000001192093
+  yaw: -56.09986
+  pitch: 21.44996
+homes:
+  home:
+    world: world
+    x: 1990.9383608675503
+    y: 73.0
+    z: -257.31390540829403
+    yaw: -13.759277
+    pitch: 51.749874
+  trade:
+    world: world
+    x: -1346.5909646371808
+    y: 65.0
+    z: 436.4768991910964
+    yaw: 34.417297
+    pitch: 6.8863735
+afk: false
+logoutlocation:
+  world: world
+  x: 2378.866706661461
+  y: 72.5
+  z: -527.6084306634025
+  yaw: -180.39331
+  pitch: 12.600094
+money: '43013.24419999999937547'
+mail:
+- §6[§rDch314§6] §rlet me know when you get back on, i have something for you from
+  kps

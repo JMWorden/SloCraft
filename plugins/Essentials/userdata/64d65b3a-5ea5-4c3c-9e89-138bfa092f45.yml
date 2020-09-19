@@ -1,0 +1,103 @@
+lastAccountName: Dch314
+timestamps:
+  login: 1600211634803
+  logout: 1600211724336
+  lastteleport: 1600211661596
+  jail: 0
+  kits:
+    philosopher: 1596942011993
+    farmer: 1596242062646
+    hoplite: 1596476421941
+    deity: 1598473858361
+    archon: 1597295924180
+  lastheal: 1599453691880
+ipAddress: 207.62.170.208
+lastlocation:
+  world: world
+  x: -5101.5
+  y: 57.0
+  z: 1555.5
+  yaw: 301.4084
+  pitch: 13.936778
+homes:
+  fortress:
+    world: world_nether
+    x: 243.69999998807907
+    y: 61.0
+    z: -207.30000001192093
+    yaw: 135.42897
+    pitch: 12.237656
+  enderman:
+    world: world_the_end
+    x: -71.5
+    y: 1.0
+    z: 285.5
+    yaw: 18.852133
+    pitch: 18.135714
+  nether:
+    world: world_nether
+    x: 2044.2791511104278
+    y: 128.0
+    z: 4361.801165819041
+    yaw: -106.491394
+    pitch: -3.4175026
+  ranks:
+    world: world
+    x: 11701.521799390677
+    y: 63.0
+    z: -1686.9659156597977
+    yaw: -40.326874
+    pitch: 33.282925
+  home:
+    world: world
+    x: -5101.39570305656
+    y: 57.0
+    z: 1555.3976110565904
+    yaw: 329.25085
+    pitch: 24.59039
+  moosh:
+    world: world
+    x: -5106.072802181616
+    y: 63.0
+    z: 1557.5692741135044
+    yaw: 190.92183
+    pitch: 10.218603
+  guardian:
+    world: world
+    x: -5499.680167618598
+    y: 22.0
+    z: 1759.4134517936961
+    yaw: 80.365845
+    pitch: 22.280293
+  kps:
+    world: world_nether
+    x: 3442.55573182008
+    y: 23.0
+    z: 3865.482290609918
+    yaw: -303.8346
+    pitch: 11.360228
+  searching:
+    world: world_nether
+    x: 6669.559954935855
+    y: 36.0
+    z: 8622.320033990352
+    yaw: -106.25275
+    pitch: 25.58356
+  squid:
+    world: world
+    x: 366.34881437575064
+    y: 61.0
+    z: -1692.8837997084502
+    yaw: -182.45428
+    pitch: 9.024443
+money: '1029664.57759999991991467'
+logoutlocation:
+  world: world
+  x: -5112.5686615386585
+  y: 63.0
+  z: 1557.9299330698277
+  yaw: 270.72116
+  pitch: 17.50368
+jailed: false
+afk: false
+nickname: §3Dch314

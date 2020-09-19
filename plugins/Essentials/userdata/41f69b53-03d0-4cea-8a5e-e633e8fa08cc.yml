@@ -1,0 +1,41 @@
+lastAccountName: ImKyle4815
+timestamps:
+  login: 1598809347442
+  lastteleport: 1598809560091
+  logout: 1598809610818
+  kits:
+    philosopher: 1597339769307
+    farmer: 1596476321912
+    hoplite: 1596916611849
+ipAddress: 71.94.58.215
+lastlocation:
+  world: world
+  x: 1780.3401905317244
+  y: 64.0
+  z: -732.401726358347
+  yaw: 295.7129
+  pitch: 10.874129
+money: '29041.50980000000015140'
+logoutlocation:
+  world: world
+  x: 2431.300000011921
+  y: 60.0
+  z: 384.69999998807907
+  yaw: 225.77179
+  pitch: -0.7500455
+homes:
+  home:
+    world: world
+    x: 2454.4139103268344
+    y: 59.5625
+    z: 375.4907868012087
+    yaw: 73.073975
+    pitch: 34.049973
+  temp:
+    world: world
+    x: 1142.3111456433169
+    y: 181.5
+    z: -1635.2214503780492
+    yaw: -298.43066
+    pitch: 53.55017
+afk: false

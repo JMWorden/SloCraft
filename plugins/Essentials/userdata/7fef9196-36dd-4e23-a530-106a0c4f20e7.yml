@@ -1,0 +1,32 @@
+lastAccountName: 12TT20
+timestamps:
+  login: 1600302629560
+  logout: 1600305499665
+  lastteleport: 1599439282857
+  kits:
+    farmer: 1597888669927
+ipAddress: 73.220.199.119
+lastlocation:
+  world: world
+  x: -1395.2100553788778
+  y: 65.0
+  z: 534.0138971945869
+  yaw: 135.19685
+  pitch: 1.3201331
+logoutlocation:
+  world: world
+  x: -1542.8074084453772
+  y: 78.0
+  z: 456.05254322663404
+  yaw: 126.72266
+  pitch: 31.499977
+homes:
+  home:
+    world: world
+    x: -1547.7118914600842
+    y: 78.0
+    z: 459.3545041956692
+    yaw: -355.3524
+    pitch: 21.749975
+afk: false
+money: '25514.9395999999997243'

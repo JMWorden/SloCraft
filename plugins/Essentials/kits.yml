@@ -1,0 +1,50 @@
+# EssentialsX kit configuration.
+# If you don't have any kits defined in this file, the plugin will try to copy them from the config.yml
+# 
+# Note: All items MUST be followed by a quantity!
+# All kit names should be lower case, and will be treated as lower in permissions/costs.
+# Syntax: - name[:durability] amount [enchantment:level]... [itemmeta:value]...
+# For Item Meta information visit http://wiki.ess3.net/wiki/Item_Meta
+# 'delay' refers to the cooldown between how often you can use each kit, measured in seconds.
+# Set delay to -1 for a one time kit.
+# For more information, visit http://wiki.ess3.net/wiki/Kits
+kits:
+  Serf:
+    delay: 35000000
+    items:
+    - salmon 1 knockback:4 name:&c&lRed_Slapper
+    - apple 6
+    - large_fern 1 
+  Farmer:
+    delay: 35000000
+    items:
+    - diamond_hoe 1 mending:1 vanishingcurse:1 name:&a&lSpade
+    - cow_spawn_egg 2
+    - sheep_spawn_egg 2
+    - egg 8
+    - large_fern 2 
+  Hoplite:
+    delay: 35000000
+    items:
+    - shield 1 knockback:2 sharpness:8 name:&f&lAspis
+    - potion 2 name:&d&lWine effect:speed power:2 duration:1000 effect:nausea power:1 duration:15 effect:strength power:1 duration:1000
+    - large_fern 2 
+  Philosopher:
+    delay: 35000000
+    items:
+    - crossbow 1 name:&d&lGastraphete quickcharge:4 damage_arthropods:5
+    - enchanted_book 1 mending:1 unbreaking:3 sharpness:5 efficiency:5
+    - nether_star 2 
+  Archon:
+    delay: 35000000
+    items:
+    - blaze_rod 1 name:&c&lArchon_Staff lore:&fThrow_In_Ancient_Ocean_Ruin|&fTo_Activate_Powers_Of_Rod!|
+      lure:4341 itemflags:HIDE_ENCHANTS
+    - potion 1 name:&d&l+Wine+ effect:speed power:3 duration:1500 effect:nausea power:1 duration:15 effect:strength power:1 duration:1500 effect:blindness power:3 duration:25 effect:luck power:2 duration:1000
+    - large_fern 8
+  Deity:
+    delay: 35000000
+    items:
+    - diamond_helmet 1 mending:2 unbreaking:5 protection:5 respiration:3 waterworker:2 name:&b&lCorinthian_Helmet lore:&fCasted_By_Gods_Itself!
+    - diamond_boots 1 mending:2 unbreaking:5 protection:5 featherfalling:5 name:&b&lKothornos lore:&fCasted_By_Gods_Itself!
+    - large_fern 12

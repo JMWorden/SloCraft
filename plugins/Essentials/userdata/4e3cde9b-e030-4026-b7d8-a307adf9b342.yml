@@ -1,0 +1,29 @@
+lastAccountName: PlebBrawler
+timestamps:
+  login: 1596226601755
+  logout: 1596227465579
+  lastteleport: 1596227077048
+ipAddress: 24.5.229.20
+lastlocation:
+  world: world
+  x: 1768.300000011921
+  y: 68.0
+  z: -502.61360750251094
+  yaw: -60.35719
+  pitch: 21.930624
+logoutlocation:
+  world: world
+  x: 1772.575359955878
+  y: 64.0
+  z: -502.3570858889665
+  yaw: 2.7941895
+  pitch: 20.25
+money: '309.50'
+homes:
+  home:
+    world: world
+    x: 1768.300000011921
+    y: 68.0
+    z: -502.61360750251094
+    yaw: 66.842834
+    pitch: 18.630636

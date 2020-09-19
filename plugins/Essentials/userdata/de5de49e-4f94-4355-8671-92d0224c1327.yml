@@ -1,0 +1,43 @@
+lastAccountName: Belatrixz
+timestamps:
+  login: 1599786574905
+  logout: 1599790633611
+  lastteleport: 1599246930078
+  kits:
+    philosopher: 1598599479114
+    farmer: 1597200850212
+    hoplite: 1597449485533
+  mute: 0
+ipAddress: 107.126.57.109
+lastlocation:
+  world: world
+  x: 10654.452683996751
+  y: 5.0
+  z: -8934.49211015593
+  yaw: 211.82544
+  pitch: 5.0998645
+logoutlocation:
+  world: world
+  x: 10677.008695988337
+  y: 75.0
+  z: -8937.784290142836
+  yaw: 267.59668
+  pitch: 61.050014
+money: '103372.56780000000126697'
+homes:
+  home:
+    world: world
+    x: 2418.8329499206166
+    y: 80.0
+    z: -2699.604786566778
+    yaw: -91.65511
+    pitch: 18.899841
+  edge:
+    world: world
+    x: 10635.905616573138
+    y: 75.0
+    z: -8947.284339724594
+    yaw: 204.7898
+    pitch: 34.95004
+afk: false
+muted: false

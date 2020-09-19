@@ -1,0 +1,30 @@
+lastAccountName: dustinthewind0
+timestamps:
+  login: 1599457620658
+  logout: 1599458046134
+  lastteleport: 1599457451907
+ipAddress: 73.93.144.79
+lastlocation:
+  world: world
+  x: 2008.0336982372721
+  y: 101.0
+  z: -787.0639598786954
+  yaw: 20.812256
+  pitch: 41.430634
+logoutlocation:
+  world: world
+  x: 793.0961350858881
+  y: 70.95863260156996
+  z: -6443.007112129236
+  yaw: 128.10576
+  pitch: 23.549952
+afk: false
+homes:
+  home:
+    world: world
+    x: 2208.300000011921
+    y: 100.0
+    z: -1400.300000011921
+    yaw: 271.76694
+    pitch: 32.550495
+money: '100.0'

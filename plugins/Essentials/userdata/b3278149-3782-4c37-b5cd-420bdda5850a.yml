@@ -1,0 +1,31 @@
+lastAccountName: HumanBeing
+timestamps:
+  login: 1598219106724
+  logout: 1598222049842
+  lastteleport: 1598222043708
+  kits:
+    farmer: 1598221391590
+ipAddress: 71.84.26.225
+lastlocation:
+  world: world
+  x: 4338.2816897768525
+  y: 15.0
+  z: -2330.5896909628777
+  yaw: -4.307488
+  pitch: 5.5773177
+logoutlocation:
+  world: world
+  x: 3808.8129294575483
+  y: 45.5
+  z: -2333.354689607643
+  yaw: -232.94789
+  pitch: 5.4054804
+money: '400.0'
+homes:
+  home:
+    world: world
+    x: 3811.0903235082355
+    y: 48.0
+    z: -2326.425411423309
+    yaw: -188.30762
+    pitch: 14.037579

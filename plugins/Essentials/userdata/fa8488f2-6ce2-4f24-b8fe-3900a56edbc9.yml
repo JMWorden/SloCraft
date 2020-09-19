@@ -1,0 +1,30 @@
+lastAccountName: arose88
+timestamps:
+  login: 1598591513719
+  lastteleport: 1598595280969
+  logout: 1598595432945
+ipAddress: 66.215.51.152
+lastlocation:
+  world: world
+  x: 2705.7346348969572
+  y: 63.0
+  z: 530.122521072774
+  yaw: 224.70879
+  pitch: 35.699883
+money: '1270.5276000000000396'
+logoutlocation:
+  world: world
+  x: 3642.699999988079
+  y: 77.0
+  z: -1758.1269655226529
+  yaw: 15.665749
+  pitch: 0.0
+homes:
+  home:
+    world: world
+    x: 3638.5482932738223
+    y: 77.0
+    z: -1760.7868461561234
+    yaw: 75.51587
+    pitch: 20.700209
+afk: false

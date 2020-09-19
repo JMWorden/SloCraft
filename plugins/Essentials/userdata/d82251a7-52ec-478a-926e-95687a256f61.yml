@@ -1,0 +1,40 @@
+lastAccountName: IBeHunting
+timestamps:
+  login: 1599849667255
+  lastteleport: 1599499089707
+  kits:
+    farmer: 1596345547559
+    hoplite: 1598489187138
+  logout: 1599849670515
+ipAddress: 207.62.170.222
+lastlocation:
+  world: world
+  x: 950.4816393016354
+  y: 74.0
+  z: -272.6832481302075
+  yaw: 293.4765
+  pitch: 11.891919
+homes:
+  home:
+    world: world
+    x: 949.7124696539599
+    y: 74.0
+    z: -272.15162236305883
+    yaw: 285.67578
+    pitch: 18.813152
+  third:
+    world: world
+    x: -510.86295340544643
+    y: 65.0
+    z: 549.3305621650335
+    yaw: 18.474855
+    pitch: 10.431582
+money: '22596.68730000000041417'
+logoutlocation:
+  world: world
+  x: 3612.503600513886
+  y: 69.0
+  z: -1906.9859818823402
+  yaw: 81.93578
+  pitch: 6.5993223
+afk: false

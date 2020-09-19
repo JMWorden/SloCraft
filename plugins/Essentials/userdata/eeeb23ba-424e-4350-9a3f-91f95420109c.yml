@@ -1,0 +1,28 @@
+lastAccountName: TheGoldenScrub
+timestamps:
+  login: 1597007785686
+  logout: 1597010306445
+  lastteleport: 1596590766001
+ipAddress: 174.45.160.205
+lastlocation:
+  world: world
+  x: -1319.8274729951725
+  y: 63.0
+  z: 816.521533515937
+  yaw: -65.1527
+  pitch: 24.44958
+logoutlocation:
+  world: world
+  x: -1561.5747511484174
+  y: 87.0
+  z: 486.4656999862028
+  yaw: -306.05164
+  pitch: 25.949697
+homes:
+  home:
+    world: world
+    x: -1582.300000011921
+    y: 61.0
+    z: 469.60738069113154
+    yaw: -191.56003
+    pitch: 4.2003136

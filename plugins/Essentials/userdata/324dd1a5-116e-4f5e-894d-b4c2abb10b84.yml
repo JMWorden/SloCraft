@@ -1,0 +1,44 @@
+lastAccountName: TSD_Blockhead
+timestamps:
+  login: 1599180605078
+  lastteleport: 1599184388879
+  logout: 1599184391836
+  kits:
+    philosopher: 1596835939583
+    farmer: 1596339548079
+    hoplite: 1596435778897
+ipAddress: 72.234.215.241
+lastlocation:
+  world: world_the_end
+  x: -71.47842707303569
+  y: 1.5
+  z: 289.40569004570943
+  yaw: 28.555105
+  pitch: 30.881393
+money: '211384.25500000000336946'
+homes:
+  h:
+    world: world
+    x: 1612.337958504195
+    y: 63.0
+    z: 714.3273745837491
+    yaw: -85.315
+    pitch: 19.309748
+  t:
+    world: world
+    x: 5747.178470524141
+    y: 89.0
+    z: -3197.4904026241657
+    yaw: 92.56161
+    pitch: 14.855573
+afk: false
+logoutlocation:
+  world: world
+  x: 1612.5
+  y: 63.0
+  z: 714.5
+  yaw: -85.315
+  pitch: 19.309748
+mail:
+- §6[§rDch314§6] §rthe stargate at your shop no longer works. potentially from the
+  soft reset of the shopping area

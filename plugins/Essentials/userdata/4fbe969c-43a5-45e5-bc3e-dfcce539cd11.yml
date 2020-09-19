@@ -1,0 +1,51 @@
+lastAccountName: kkuhn
+timestamps:
+  login: 1600311916645
+  logout: 1600312066301
+  lastteleport: 1600312065440
+ipAddress: 192.168.1.254
+lastlocation:
+  world: world
+  x: 1777.1419173781283
+  y: 69.1565537474161
+  z: -746.0745175083107
+  yaw: 232.18892
+  pitch: 28.9509
+socialspy: false
+logoutlocation:
+  world: world
+  x: 1804.5
+  y: 90.0
+  z: -619.5
+  yaw: 269.36465
+  pitch: 35.39618
+afk: false
+godmode: false
+powertools:
+  firework_rocket:
+  - heal racduca
+  dirt:
+  - //sphere air 4
+  apple:
+  - heal kmarinsh
+  wooden_sword:
+  - spawnmob silverfish
+  iron_sword:
+  - smite kmarinsh
+money: '42386.68'
+homes:
+  home:
+    world: world
+    x: 1804.8926257722128
+    y: 90.0
+    z: -619.4553429904842
+    yaw: 269.36465
+    pitch: 35.39618
+  adminroom:
+    world: world
+    x: 1796.4094921873404
+    y: 68.0
+    z: -637.9174983684493
+    yaw: -179.69849
+    pitch: 14.867268
+powertoolsenabled: true

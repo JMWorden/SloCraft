@@ -1,0 +1,34 @@
+lastAccountName: otscookis
+timestamps:
+  login: 1598733047713
+  logout: 1598733344614
+  lastteleport: 1598499934345
+  kits:
+    farmer: 1596242233835
+  lastheal: 1598230763588
+ipAddress: 75.128.9.3
+lastlocation:
+  world: world_the_end
+  x: -70.1568223970761
+  y: 30.052490143608832
+  z: 175.83865253490248
+  yaw: -14.714239
+  pitch: 46.949257
+logoutlocation:
+  world: world
+  x: 2292.548424022154
+  y: 70.0
+  z: -2008.907841606488
+  yaw: -180.94798
+  pitch: 14.849569
+money: '99619.63560000000246836'
+homes:
+  home:
+    world: world
+    x: 2282.071350472433
+    y: 69.9375
+    z: -2005.392540382987
+    yaw: -264.32556
+    pitch: 14.549635
+nickname: otscookis
+afk: false

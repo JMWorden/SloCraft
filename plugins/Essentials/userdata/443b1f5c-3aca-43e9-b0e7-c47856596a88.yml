@@ -1,0 +1,96 @@
+lastAccountName: MrsWalkingDead
+timestamps:
+  login: 1600210877468
+  lastteleport: 1600212672680
+  logout: 1600212693128
+  kits:
+    farmer: 1599021094516
+    hoplite: 1599160305875
+ipAddress: 69.120.69.210
+lastlocation:
+  world: world
+  x: 700.1046975435531
+  y: 48.0
+  z: -323.2032144044021
+  yaw: 333.31888
+  pitch: 6.2469797
+afk: false
+money: '82914.86320000000283701'
+logoutlocation:
+  world: world
+  x: -1412.7653212841103
+  y: 65.0
+  z: 1159.536896630303
+  yaw: -162.88547
+  pitch: 21.461485
+homes:
+  home:
+    world: world
+    x: -2304.3195979285993
+    y: 65.0
+    z: -2015.2163478143075
+    yaw: 36.29913
+    pitch: 12.617834
+  village:
+    world: world
+    x: -700.769436480201
+    y: 67.0
+    z: -2437.456066500148
+    yaw: -186.40721
+    pitch: 33.83072
+  birch:
+    world: world
+    x: -1408.5740085500079
+    y: 72.0
+    z: 1142.900773626718
+    yaw: -236.39868
+    pitch: 12.866714
+  stronghold:
+    world: world
+    x: -183.2036348300551
+    y: 41.0
+    z: -2497.923743496594
+    yaw: 113.767395
+    pitch: 29.350101
+  zomb:
+    world: world
+    x: -1985.5
+    y: 56.0
+    z: -2720.5
+    yaw: 27.156738
+    pitch: 11.977869
+  chris:
+    world: world
+    x: 305.7268515148378
+    y: 191.0
+    z: -3559.7789633588886
+    yaw: -118.76779
+    pitch: 12.830521
+  trade:
+    world: world
+    x: -1356.35119593976
+    y: 65.62530253314092
+    z: 435.8639399929735
+    yaw: 354.72235
+    pitch: 9.573274
+  xp:
+    world: world_the_end
+    x: 245.77696455053237
+    y: 1.0
+    z: 2.2899587572000977
+    yaw: -102.127235
+    pitch: 25.009037
+  mytrade:
+    world: world
+    x: -2532.424243706682
+    y: 63.0
+    z: -2243.4572873209127
+    yaw: 289.84363
+    pitch: 4.9663734
+  trident:
+    world: world
+    x: 410.59223768698484
+    y: 211.1875
+    z: -47.43993161321878
+    yaw: -268.0146
+    pitch: 9.509784

@@ -1,0 +1,39 @@
+lastAccountName: SaltedCards
+timestamps:
+  login: 1599020452029
+  lastteleport: 1599026567429
+  logout: 1599027025294
+  kits:
+    farmer: 1599010614592
+ipAddress: 73.231.29.61
+lastlocation:
+  world: world
+  x: -96.56328998008142
+  y: 64.0
+  z: 1235.237500011921
+  yaw: -109.65222
+  pitch: -14.100021
+money: '619.300000000000003'
+homes:
+  home:
+    world: world
+    x: -98.55420574709564
+    y: 64.0
+    z: 1241.0064466815525
+    yaw: -5.854065
+    pitch: 8.399963
+  forest:
+    world: world
+    x: 820.2397606078076
+    y: 67.0
+    z: -2614.8678242767987
+    yaw: -94.80001
+    pitch: 19.500015
+logoutlocation:
+  world: world
+  x: 1816.833639374461
+  y: 64.0
+  z: -638.1796311449302
+  yaw: 88.44883
+  pitch: 21.027773
+afk: false

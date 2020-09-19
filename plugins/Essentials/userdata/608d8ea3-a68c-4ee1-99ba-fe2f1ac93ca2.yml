@@ -1,0 +1,40 @@
+lastAccountName: Xavi_Babi
+timestamps:
+  login: 1599033675478
+  lastteleport: 1599037130230
+  logout: 1599039266788
+  kits:
+    farmer: 1598588834457
+    hoplite: 1598589855059
+ipAddress: 97.97.115.184
+lastlocation:
+  world: world_the_end
+  x: 246.04464850830212
+  y: 1.0
+  z: -0.5855959280497175
+  yaw: -168.41359
+  pitch: 13.531723
+money: '68961.55690000000079870'
+logoutlocation:
+  world: world
+  x: 1414.8980433520053
+  y: 65.0
+  z: -1218.0756799567203
+  yaw: -77.51288
+  pitch: -47.39983
+homes:
+  home:
+    world: world
+    x: 1417.0140809080322
+    y: 67.0
+    z: -1214.2600074683526
+    yaw: 114.216675
+    pitch: 23.430511
+  enderfarm:
+    world: world_the_end
+    x: 246.69999998807907
+    y: 1.0
+    z: -0.047193672886138266
+    yaw: -92.213684
+    pitch: 36.631733
+afk: false

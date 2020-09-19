@@ -1,0 +1,32 @@
+lastAccountName: Jamespi
+timestamps:
+  login: 1597005760485
+  logout: 1597006299063
+  lastteleport: 1597005865959
+  kits:
+    farmer: 1596231869775
+ipAddress: 166.176.187.232
+lastlocation:
+  world: world
+  x: 1488.6268321566904
+  y: 67.0
+  z: -116.52465195752335
+  yaw: -140.85962
+  pitch: 20.196669
+logoutlocation:
+  world: world
+  x: 1804.9786597062246
+  y: 64.0
+  z: -710.951683077658
+  yaw: -319.34082
+  pitch: 9.769325
+nickname: Jamespi
+money: '100582.4670000000000060'
+homes:
+  lighthouse:
+    world: world
+    x: 1485.2814145414125
+    y: 68.0
+    z: -119.1648481853286
+    yaw: -320.48584
+    pitch: 40.30268

@@ -1,0 +1,37 @@
+lastAccountName: 420YeetYeet420
+timestamps:
+  login: 1600245881258
+  lastteleport: 1599950128485
+  logout: 1600246009114
+ipAddress: 207.62.170.222
+money: '424694.2618099999980448'
+lastlocation:
+  world: world
+  x: 1318.102490531631
+  y: 78.0
+  z: -522.3244715753316
+  yaw: 177.47809
+  pitch: 22.631754
+homes:
+  castle:
+    world: world
+    x: -203.72023040586143
+    y: 49.0
+    z: -1844.5472090105518
+    yaw: 153.63924
+    pitch: 31.787334
+  endship:
+    world: world_the_end
+    x: 10296.558869959246
+    y: 115.0
+    z: -12674.55267371041
+    yaw: 179.42114
+    pitch: 12.689508
+logoutlocation:
+  world: world
+  x: 1300.300000011921
+  y: 67.0
+  z: -603.6999999880791
+  yaw: 346.6309
+  pitch: 1.9648255
+afk: false

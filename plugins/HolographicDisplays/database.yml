@@ -1,0 +1,71 @@
+serf:
+  location: world, 1816.499, 66.200, -634.545
+  lines:
+  - '&f&l<([&e&lSerf&f&l])>'
+  - '&7+ &e1 &fProtection Stone'
+  - '&7+ &e1 &fHome'
+farmer:
+  location: world, 1822.502, 66.200, -634.599
+  lines:
+  - '&f&l<([&a&lFarmer&f&l])>'
+  - '&7+ &a1 &fProtection Stone'
+  - '&7+ &a1 &fHome'
+  - '&7+ &a/Kit Farmer'
+hoplite:
+  location: world, 1828.480, 66.200, -634.528
+  lines:
+  - '&f&l<([&c&lHoplite&f&l])>'
+  - '&7+ &c1 &fProtection Stones'
+  - '&7+ &fAccess To &c/Back'
+  - '&7+ &c/Kit Hoplite'
+Phil:
+  location: world, 1834.494, 66.200, -634.580
+  lines:
+  - '&f&l<([&d&lPhilosopher&f&l])>'
+  - '&7+ &d/Kit Philosopher'
+  - '&7+ &d1 &fProtection Stone'
+  - '&7+ &d1 &fHome'
+archon:
+  location: world, 1840.497, 66.200, -634.557
+  lines:
+  - '&f&l<([&6&lArchon&f&l])>'
+  - '&7+ &fTeleport &6Timer Bypass'
+  - '&7+ &61 &fProtection Stone'
+  - '&7+ &61 &fHome'
+  - '&7+ &6/Kit Archon'
+deity:
+  location: world, 1846.509, 66.200, -634.607
+  lines:
+  - '&f&l<([&b&lDeity&f&l)]>'
+  - '&7+ &b1 &fProtection Stone'
+  - '&7+ &fAccess To &b/Invsee'
+  - '&7+ &fDouble Jump &b/TDJ'
+  - '&7+ &b/Kit Deity'
+peg:
+  location: world, 1806.610, 66.200, -636.998
+  lines:
+  - '&f&l(&b$25&f&l) &f&l<([Pegasus])>'
+  - '&7+ &fIn Game Cash &7$250,000'
+  - '&7+ &fTotal of &710 &fHomes'
+  - '&7+ &fTotal of &710 &fProtection Stones'
+  - '&7+ &fAccess To &7/Repair'
+  - '&7+ &fAccess To &7/Fly'
+  - '&7+ &fMore Perks On Website'
+cerb:
+  location: world, 1806.580, 66.200, -629.956
+  lines:
+  - '&f&l(&4$10&f&l) <([&c&lCerberus&f&l])>'
+  - '&7+ &fIn Game Cash &c$100,000'
+  - '&7+ &fTotal of &c8 &fHomes'
+  - '&7+ &fTotal of &c8 &fProtection Stones'
+  - '&7+ &fAccess &c/Back &fOn Death'
+  - '&7+ &fMore On Website!'
+supporter:
+  location: world, 1806.567, 66.200, -623.042
+  lines:
+  - '&f&l<([&9&lSupporter&f&l])>'
+  - '&7+ &fAccess To &9/Nick (Name)'
+  - '&7+ &fAccess To &9/Hat'
+  - '&7+ &fTeleport &9Timer Bypass'
+  - '&7+ &fIn Game Cash &9$20,000'
+  - '&7+ &fAcess To &9/Near'

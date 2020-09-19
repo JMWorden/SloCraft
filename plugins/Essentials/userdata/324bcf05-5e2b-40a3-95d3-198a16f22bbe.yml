@@ -1,0 +1,21 @@
+lastAccountName: SnowyTaco
+timestamps:
+  login: 1596780672126
+  jail: 0
+  logout: 1596782943209
+ipAddress: 216.165.246.47
+lastlocation:
+  world: world
+  x: 1798.137499988079
+  y: 84.63129854534913
+  z: -613.1374999880791
+  yaw: 236.3757
+  pitch: 29.10849
+jailed: false
+logoutlocation:
+  world: world
+  x: 11470.50104479065
+  y: 130.0
+  z: -1651.399700201592
+  yaw: 357.6706
+  pitch: 6.2328634

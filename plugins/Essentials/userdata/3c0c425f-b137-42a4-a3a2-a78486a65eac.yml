@@ -1,0 +1,32 @@
+lastAccountName: ABigMeech
+timestamps:
+  login: 1598669931622
+  lastteleport: 1598591574568
+  logout: 1598670839829
+  kits:
+    farmer: 1596483658152
+ipAddress: 104.34.236.202
+lastlocation:
+  world: world
+  x: 1799.1306677614557
+  y: 79.0
+  z: -623.8677184022795
+  yaw: 0.5336914
+  pitch: 8.997512
+money: '9832.3357999999993391'
+logoutlocation:
+  world: world
+  x: 2758.728303595922
+  y: 73.0
+  z: 88.10286571520638
+  yaw: 216.40636
+  pitch: 20.118189
+homes:
+  home:
+    world: world
+    x: 2759.518683643027
+    y: 73.0
+    z: 90.5801084690619
+    yaw: -88.081726
+    pitch: 23.238138
+afk: false

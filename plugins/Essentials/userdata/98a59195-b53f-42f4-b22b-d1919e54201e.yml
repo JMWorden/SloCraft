@@ -1,0 +1,42 @@
+lastAccountName: Patreker
+timestamps:
+  login: 1600405278781
+  logout: 1600407727345
+  lastteleport: 1600405737822
+  kits:
+    philosopher: 1598168862834
+    farmer: 1597954800952
+    hoplite: 1598168752037
+ipAddress: 73.189.149.132
+lastlocation:
+  world: world
+  x: -1560.3465429782898
+  y: 82.0
+  z: 419.55815253158676
+  yaw: -281.39984
+  pitch: 88.200005
+logoutlocation:
+  world: world
+  x: -1353.395072060893
+  y: 114.0
+  z: 518.2496344316016
+  yaw: 183.47656
+  pitch: -1.0499388
+homes:
+  home:
+    world: world
+    x: -1560.5310476856278
+    y: 78.0
+    z: 420.3695978789269
+    yaw: -131.3609
+    pitch: 31.799881
+  gates:
+    world: world
+    x: -1394.1815083967654
+    y: 68.0
+    z: 550.2518937772139
+    yaw: -304.46167
+    pitch: 31.500057
+money: '104607.25059999999928521'
+afk: false
+nickname: Patreker

@@ -1,0 +1,37 @@
+lastAccountName: KurthClan
+timestamps:
+  login: 1600405108780
+  lastteleport: 1600409584431
+  logout: 1600409784337
+ipAddress: 70.235.159.238
+lastlocation:
+  world: world
+  x: 4035.8085163780584
+  y: 94.0625
+  z: -1505.699999988079
+  yaw: 7.2059937
+  pitch: -40.799652
+logoutlocation:
+  world: world
+  x: 4027.5315972726557
+  y: 94.0
+  z: -1504.6574490519245
+  yaw: 262.9498
+  pitch: 31.499912
+homes:
+  jungle:
+    world: world
+    x: 4024.613380891258
+    y: 98.0
+    z: -1504.0385502328556
+    yaw: 128.40508
+    pitch: 9.1502905
+  base:
+    world: world
+    x: 3784.5779401671425
+    y: 89.0
+    z: -940.8165042531784
+    yaw: 39.600025
+    pitch: 5.700003
+money: '9222.71560000000007621'
+afk: false

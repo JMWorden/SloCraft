@@ -1,0 +1,19 @@
+# This file stores custom item aliases.
+# We recommend you use the `/itemdb alias` command to manage these.
+
+# NOTE: If you try and alias an item to another entry in this file, the alias won't work.
+
+#SYNTAX:
+#newname: oldname
+aliases:
+  bluepaint: blue_dye
+  snad: sand
+  breakfast: cooked_porkchop
+  totundying: totem_of_undying
+  slimeb: slime_block
+  sealan: sea_lantern
+  seal: sea_lantern
+  scane: sugarcane
+  hofts: heartofthesea
+  pice: packedice
+  thelm: turtlehelmet

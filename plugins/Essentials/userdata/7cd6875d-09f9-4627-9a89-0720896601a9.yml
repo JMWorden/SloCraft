@@ -1,0 +1,29 @@
+lastAccountName: grizzlyboy1
+timestamps:
+  login: 1599361040057
+  lastteleport: 1599366626807
+  logout: 1599367312179
+ipAddress: 73.223.224.235
+lastlocation:
+  world: world
+  x: 1826.7546148082483
+  y: 64.0
+  z: -738.26853075332
+  yaw: 271.05713
+  pitch: 21.300552
+money: '1665.09679999999999848'
+homes:
+  home:
+    world: world
+    x: 1751.230146361709
+    y: 64.0
+    z: -732.368282558096
+    yaw: 332.77667
+    pitch: 36.180897
+logoutlocation:
+  world: world
+  x: 1751.013278769271
+  y: 64.0
+  z: -731.3717220568731
+  yaw: 199.48882
+  pitch: -16.799986

@@ -1,0 +1,30 @@
+lastAccountName: dully_
+timestamps:
+  login: 1599099334343
+  logout: 1599100451125
+  lastteleport: 1599100101244
+ipAddress: 73.231.27.162
+lastlocation:
+  world: world
+  x: 781.7902192347165
+  y: 64.0
+  z: -2345.841876730838
+  yaw: 283.95975
+  pitch: 14.724543
+logoutlocation:
+  world: world
+  x: 828.2178589548377
+  y: 64.0
+  z: -2313.9480980196695
+  yaw: 227.71194
+  pitch: 16.864
+homes:
+  home:
+    world: world
+    x: 759.2598712987424
+    y: 98.0
+    z: -2203.311478598787
+    yaw: 101.1107
+    pitch: 16.29907
+money: '77024.68120000000161305'
+afk: false

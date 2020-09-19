@@ -1,0 +1,21 @@
+lastAccountName: MastnoDjete
+timestamps:
+  login: 1597479129260
+  lastteleport: 1597479618387
+  logout: 1597479828998
+ipAddress: 93.103.118.182
+lastlocation:
+  world: world
+  x: 1816.4545279581976
+  y: 81.0
+  z: -619.6274454704037
+  yaw: 138.89651
+  pitch: 5.6616917
+money: '100.0'
+logoutlocation:
+  world: world
+  x: 246.69999998807907
+  y: 55.0
+  z: -2115.4897979520533
+  yaw: -149.24207
+  pitch: -24.534409

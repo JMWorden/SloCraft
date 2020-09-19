@@ -1,0 +1,68 @@
+lastAccountName: kpsiscool
+timestamps:
+  login: 1600221797868
+  lastteleport: 1600222806195
+  logout: 1600223003974
+  jail: 0
+  kits:
+    philosopher: 1596859066504
+    farmer: 1596489917520
+    hoplite: 1596523851101
+    archon: 1597283651829
+  mute: 0
+ipAddress: 76.105.9.37
+lastlocation:
+  world: world
+  x: 2288.0487781609168
+  y: 63.0
+  z: -1997.7803182828045
+  yaw: 88.00219
+  pitch: 18.750013
+money: '3741.30060000000428245'
+homes:
+  home:
+    world: world
+    x: 2290.662664453112
+    y: 63.0
+    z: -1990.2484185511717
+    yaw: 183.70209
+    pitch: 19.95001
+  m:
+    world: world
+    x: -210.5
+    y: 5.0
+    z: -2572.5
+    yaw: 187.76654
+    pitch: 90.0
+  b:
+    world: world_nether
+    x: 3442.5274686674256
+    y: 23.0
+    z: 3865.699999988079
+    yaw: 180.51477
+    pitch: 12.900129
+  cow:
+    world: world
+    x: 2873.59246008443
+    y: 35.5
+    z: -2346.949999988079
+    yaw: 296.17444
+    pitch: 43.34983
+  leather:
+    world: world
+    x: 2880.5
+    y: 27.0
+    z: -2346.5
+    yaw: 117.22481
+    pitch: 51.75003
+logoutlocation:
+  world: world
+  x: 2881.6390792012644
+  y: 27.0
+  z: -2345.950603715756
+  yaw: 89.32608
+  pitch: 20.999996
+jailed: false
+afk: false
+nickname: KingKPS
+muted: false

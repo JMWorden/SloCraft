@@ -1,0 +1,21 @@
+lastAccountName: iamwonderingwade
+timestamps:
+  login: 1597293538483
+  lastteleport: 1597293995587
+  logout: 1597294068264
+ipAddress: 76.102.254.163
+lastlocation:
+  world: world
+  x: 1746.597723287396
+  y: 64.0
+  z: -645.5630060953539
+  yaw: 45.99164
+  pitch: 24.180607
+logoutlocation:
+  world: world
+  x: 3736.0963298071524
+  y: 64.0
+  z: -2378.689474223202
+  yaw: 149.53125
+  pitch: 34.500027
+money: '132.7204'

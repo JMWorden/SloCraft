@@ -1,0 +1,22 @@
+lastAccountName: Meepabot
+timestamps:
+  login: 1596436196328
+  logout: 1596440353249
+  lastteleport: 1596413934069
+ipAddress: 98.164.208.96
+lastlocation:
+  world: world
+  x: -56.89287560969784
+  y: 68.0
+  z: -1796.7406977375344
+  yaw: -114.76483
+  pitch: 10.200061
+logoutlocation:
+  world: world
+  x: -17.5
+  y: 64.0000002
+  z: -1828.5
+  yaw: 145.9449
+  pitch: 31.5
+money: '300.0'
+afk: false

@@ -1,0 +1,32 @@
+lastAccountName: FloofFloofberger
+timestamps:
+  login: 1599762411554
+  lastteleport: 1599762652554
+  logout: 1599762807563
+  kits:
+    farmer: 1599349316122
+ipAddress: 107.205.206.24
+lastlocation:
+  world: world_nether
+  x: 461.5569355918006
+  y: 70.0
+  z: -322.91778289101387
+  yaw: 13.220093
+  pitch: 21.354046
+money: '6284.9160999999998895'
+homes:
+  home:
+    world: world
+    x: 4270.918123693861
+    y: 73.0
+    z: -1280.687994065315
+    yaw: 90.460205
+    pitch: 9.440327
+afk: false
+logoutlocation:
+  world: world
+  x: 4264.960189818929
+  y: 73.0
+  z: -1280.7050522330678
+  yaw: -94.45911
+  pitch: 10.779129

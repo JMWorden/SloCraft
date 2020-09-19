@@ -1,0 +1,21 @@
+lastAccountName: ariii
+timestamps:
+  login: 1599878821843
+  lastteleport: 1599879525472
+  logout: 1599879526632
+ipAddress: 47.45.73.162
+lastlocation:
+  world: world
+  x: 1809.661981473691
+  y: 64.0
+  z: -626.4112269286821
+  yaw: 171.45001
+  pitch: -3.2059426
+afk: false
+logoutlocation:
+  world: world
+  x: 1816.5
+  y: 81.0
+  z: -619.5
+  yaw: 270.3925
+  pitch: -3.5693972

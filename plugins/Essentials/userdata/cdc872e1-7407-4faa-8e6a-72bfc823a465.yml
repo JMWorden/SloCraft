@@ -1,0 +1,49 @@
+lastAccountName: PDT_Tap_15
+timestamps:
+  login: 1600231967007
+  logout: 1600232244915
+  lastteleport: 1600216220602
+  kits:
+    philosopher: 1598142021743
+    farmer: 1596676718780
+    hoplite: 1597871794084
+    archon: 1599197496310
+ipAddress: 73.189.149.132
+lastlocation:
+  world: world_the_end
+  x: 8975.837727679072
+  y: 64.0
+  z: -20715.306794184384
+  yaw: -246.24818
+  pitch: 18.462748
+logoutlocation:
+  world: world
+  x: -1407.2097615003377
+  y: 71.0
+  z: 405.4580440071412
+  yaw: -87.86719
+  pitch: 21.682467
+homes:
+  docks:
+    world: world
+    x: -1405.286349793566
+    y: 69.0
+    z: 403.8570903336716
+    yaw: -178.17303
+    pitch: 18.264044
+  home:
+    world: world_nether
+    x: -451.1729513883598
+    y: 12.0
+    z: -346.7199232555602
+    yaw: -291.5716
+    pitch: 20.222853
+  end:
+    world: world_the_end
+    x: 8975.837727679072
+    y: 64.0
+    z: -20715.306794184384
+    yaw: -246.24818
+    pitch: 18.462748
+money: '93122.37580000000785813'
+afk: false
