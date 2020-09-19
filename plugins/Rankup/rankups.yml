@@ -1,0 +1,162 @@
+# see https://github.com/okx-code/Rankup3/wiki/Rank-format      
+
+# this name doesn't matter
+Aexample:
+  # the name of the group
+  # players have to be in this rank to rankup
+  rank: 'Serf'
+  # the name of the rank a player can rankup to
+  next: 'Farmer'
+  # List of requirements to go to the next rank
+  # This example will charge 1000 money to rankup from A to B.
+  # https://github.com/okx-code/Rankup3/wiki/Requirements
+  # custom requirements can also be added by other plugins.
+  requirements:
+    - 'item dirt 64'
+    - 'item oak_log 64'
+    - 'item cobblestone 64'
+    - 'item glass 64'
+  rankup:
+    requirements-not-met: '&cSolve the riddle and find the items to rank up! (/ranks to see riddle)'
+    list:
+      complete: "&a{OLD_RANK} &6\xbb &a{RANK}"
+      current: "&f{OLD_RANK} &6\xbb &f{RANK} &6(Recently, a meteor has struck. Follow Fletchers Trail and find it, for deep within the meteor tells you what you need.)"
+      incomplete: "&c{OLD_RANK} &6\xbb &c{RANK}"
+  # the console will run these commands when a player ranks up
+  # nb: groups are automatically changed with vault
+  #commands:
+  # this will run when a player ranks up from A to B.
+  #- 'say {PLAYER} well done for ranking up from {OLD_RANK} to {RANK}!'
+Bexample:
+  rank: 'Farmer'
+  next: 'Hoplite'
+  requirements:
+    - 'money 4000'
+    - 'item carrot 64'
+    - 'item potato 64'
+    - 'item melon 32'
+    - 'item wheat 64'
+    - 'item pumpkin 32'
+    - 'item salmon 64'
+    - 'item beetroot 64'
+  rankup:
+    requirements-not-met: '&cSolve the riddle and find the items to rank up! (/ranks to see riddle)'
+    list:
+      complete: "&a{OLD_RANK} &6\xbb &a{RANK}"
+      current: "&f{OLD_RANK} &6\xbb &f{RANK} &6(Decode This h913 26 -oa00 (Phone #)(Need Water Breathing To Complete This Quest))"
+      incomplete: "&c{OLD_RANK} &6\xbb &c{RANK}"
+Cexample:
+  rank: 'Hoplite'
+  next: 'Philosopher'
+  requirements:
+    - 'money 30000'
+    - 'xp-level 30'
+    - 'item cake 4'
+    - 'item cookie 4'
+    - 'item pumpkin_pie 4'
+    - 'item rabbit_stew 4'
+    - 'item string 48'
+    - 'item spider_eye 48'
+    - 'item bone 48'
+    - 'item leather 48'
+    - 'item blaze_powder 48'
+    - 'item gunpowder 48'
+    - 'item feather 48'
+    - 'item slime_ball 48'
+    - 'item cod 48'
+    - 'item golden_horse_armor 1'
+    - 'item iron_horse_armor 1'
+    - 'item leather_horse_armor 1'
+    - 'item chainmail_leggings 1'
+    - 'item chainmail_chestplate 1'
+    - 'item turtle_helmet 1'
+    
+  # you can have a custom messages for each rank
+  # the paths of these messages are the same as in the messages for your locale
+  rankup:
+    requirements-not-met: '&cSolve the riddle and find the items to rank up! (/ranks to see riddle)'
+    list:
+      complete: "&a{OLD_RANK} &6\xbb &a{RANK}"
+      current: "&f{OLD_RANK} &6\xbb &f{RANK} &6(X=(Negative)...../...--/.....     Z=(Positive)-..../.----/-----)"
+      incomplete: "&c{OLD_RANK} &6\xbb &c{RANK}"
+Dexample:
+  rank: 'Philosopher'
+  next: 'Archon'
+  requirements:
+    - 'money 100000'
+    - 'xp-level 40'
+    - 'item bell 2'
+    - 'item heart_of_the_sea 2'
+    - 'item diamond_horse_armor 2'
+    - 'item popped_chorus_fruit 32'
+    - 'item dead_bush 32'
+    - 'item ender_eye 32'
+    - 'item emerald_ore 32'
+    - 'item poisonous_potato 32'
+    - 'item golden_apple 32'
+    - 'item experience_bottle 32'
+    - 'item golden_carrot 32'
+    - 'item gold_ore 32'
+    - 'item piglin_banner_pattern 1'
+    - 'item mojang_banner_pattern 1'
+    - 'item creeper_banner_pattern 1'
+    - 'item skull_banner_pattern 1'
+    - 'item flower_banner_pattern 1'
+  # you can have a custom messages for each rank
+  # the paths of these messages are the same as in the messages for your locale
+  rankup:
+    requirements-not-met: '&cSolve the riddle and find the items to rank up! (/ranks to see riddle)'
+    list:
+      complete: "&a{OLD_RANK} &6\xbb &a{RANK}"
+      current: "&f{OLD_RANK} &6\xbb &f{RANK} &6(Atop The Lighthouse There Is A Missing Light; Follow The Direction Of The Missing Light To Find A Temple Filled With Things That Make One Bright."
+      incomplete: "&c{OLD_RANK} &6\xbb &c{RANK}"
+Eexample:
+  rank: 'Archon'
+  next: 'Deity'
+  requirements:
+    - 'money 500000'
+    - 'xp-level 100'
+    - 'item diamond_block 64'
+    - 'item honey_bottle 16'
+    - 'item turtle_egg 16'
+    - 'item emerald_block 64'
+    - 'item gold_block 64'
+    - 'item honeycomb 64'
+    - 'item phantom_membrane 64'
+    - 'item dragon_head 2'
+    - 'item rabbit_foot 16'
+    - 'item ender_chest 16'
+    - 'item enchanting_table 16'
+    - 'item dragon_breath 16'
+    - 'item wither_skeleton_skull 16'
+    - 'item enchanted_golden_apple 2'
+    - 'item trident 1'
+    - 'item zombie_head 1'
+    - 'item creeper_head 1'
+    - 'item skeleton_skull 1'
+    - 'item netherite_chestplate 1'
+    - 'item netherite_leggings 1'
+    - 'item name_tag 16'
+    - 'item nautilus_shell 16'
+    - 'item anvil 16'
+    - 'item pink_tulip 64'
+    - 'item brain_coral_block 64'
+    - 'item pufferfish 64'
+    - 'item tropical_fish 16'
+    - 'item end_rod 64'
+    - 'item cobweb 64'
+    - 'item blue_orchid 64'
+    - 'item wither_rose 16'
+    - 'item ghast_tear 16'
+    - 'item music_disc_pigstep 1'
+    - 'item totem_of_undying 2'
+    - 'item dragon_egg 1'
+    
+  # you can have a custom messages for each rank
+  # the paths of these messages are the same as in the messages for your locale
+  rankup:
+    requirements-not-met: '&cSolve the riddle and find the items to rank up! (/ranks to see riddle)'
+    list:
+      complete: "&a{OLD_RANK} &6\xbb &a{RANK}"
+      current: "&f{OLD_RANK} &6\xbb &f{RANK} &6(Travel To The Edge Of The World, And Pray To Find The Ancient City In The Sky! Coords About +10K -1K)"
+      incomplete: "&c{OLD_RANK} &6\xbb &c{RANK}"
